@@ -103,7 +103,7 @@ function DownloadBtn(props) {
     document.body.removeChild(link);
     URL.revokeObjectURL(href);
   }
-  return <Button onClick={downloadFile}>ダウンロード</Button>;
+  return <Button color='primary' onClick={downloadFile}>ダウンロード</Button>;
 }
 
 
@@ -148,7 +148,10 @@ function DrugEditor() {
         ))}
       </Form >
       <DrugSummary drugs={drugs} />
-      <DownloadBtn data={drugs} />
+      <div>
+        <DownloadBtn data={drugs} />
+        <Button className='mx-2' onClick={() => setDrugs([newDrug()])}>リセット</Button>
+      </div>
     </>
   );
 }
@@ -244,7 +247,7 @@ function App() {
     <Container>
       <Row>
         <Col>
-          <h1 class="my-4">向精神薬情報入力ツール</h1>
+          <h1 className="my-4">向精神薬情報入力ツール</h1>
           <DrugEditor />
         </Col>
       </Row>
