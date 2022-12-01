@@ -79,6 +79,34 @@ function newDrug() {
   return { name: '', amount: NaN };
 }
 
+
+function DownloadBtn(props) {
+  const downloadFile = () => {
+    // create file in browser
+    const id2amt = collect(props.data);
+    const res = [];
+    for (const [drug_id, amount] of Object.entries(id2amt)) {
+      res.push({ id: drug_id, name: DRUGS[drug_id].generic_name, amount: amount });
+    }
+    const json = JSON.stringify(res, null, 2);
+    const blob = new Blob([json], { type: "application/json" });
+    const href = URL.createObjectURL(blob);
+
+    // create "a" HTLM element with href to file
+    const link = document.createElement("a");
+    link.href = href;
+    link.download = "drugs.json";
+    document.body.appendChild(link);
+    link.click();
+
+    // clean up "a" element & remove ObjectURL
+    document.body.removeChild(link);
+    URL.revokeObjectURL(href);
+  }
+  return <Button onClick={downloadFile}>ダウンロード</Button>;
+}
+
+
 function DrugEditor() {
   const [drugs, setDrugs] = useState([newDrug()]);
 
@@ -120,6 +148,7 @@ function DrugEditor() {
         ))}
       </Form >
       <DrugSummary drugs={drugs} />
+      <DownloadBtn data={drugs} />
     </>
   );
 }
@@ -215,7 +244,7 @@ function App() {
     <Container>
       <Row>
         <Col>
-          <p>This is a test!</p>
+          <h1 class="my-4">向精神薬情報入力ツール</h1>
           <DrugEditor />
         </Col>
       </Row>
