@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'react-bootstrap-typeahead/css/Typeahead.css';
 import 'react-bootstrap-typeahead/css/Typeahead.bs5.css';
-import './App.css';
+import './App.scss';
 
 import DRUGS from './drugs.json';
 import NAME2ID from './name2id.json';
