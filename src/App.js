@@ -8,7 +8,7 @@ import NAME2ID from './name2id.json';
 
 import { useState } from 'react';
 import { Typeahead } from 'react-bootstrap-typeahead';
-import { Button, ButtonGroup, Container, Label, Row, Col, Form, FormGroup, Input, InputGroup, InputGroupText } from 'reactstrap';
+import { Button, ButtonGroup, Container, Label, Row, Col, Form, FormGroup, FormFeedback, Input, InputGroup, InputGroupText } from 'reactstrap';
 
 var NAMES = [];
 for (const key of Object.keys(NAME2ID)) {
@@ -155,7 +155,7 @@ function DrugEditor() {
 
   return (
     <>
-      <Form>
+      <Form noValidate={true}>
         <FormGroup row>
           <h4>被験者情報</h4>
           <Col sm={6}>
@@ -207,6 +207,16 @@ function DrugEditor() {
   );
 }
 
+const Feedback = (props) => {
+  console.log(props);
+  if (props.selected in NAME2ID) {
+    return <FormFeedback valid>{DRUGS[NAME2ID[props.selected]]['class']}</FormFeedback>;
+  } else {
+    return null;
+  }
+}
+
+
 function DrugForm(props) {
   const onDrugChange = (selected) => {
     if (selected.length === 0) {
@@ -238,7 +248,9 @@ function DrugForm(props) {
             const input = hiraToKata(props.text);
             return option.startsWith(input);
           }}
+          className={(props.selected !== '' && (props.selected in NAME2ID)) ? "is-valid" : ""}
         />
+        <Feedback selected={props.selected} />
       </Col>
       <Col sm={4}>
         <InputGroup>
