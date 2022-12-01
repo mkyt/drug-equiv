@@ -8,7 +8,7 @@ import NAME2ID from './name2id.json';
 
 import { useState } from 'react';
 import { Typeahead } from 'react-bootstrap-typeahead';
-import { Button, ButtonGroup, Container, Row, Col, Form, FormGroup, Input, InputGroup, InputGroupText } from 'reactstrap';
+import { Button, ButtonGroup, Container, Label, Row, Col, Form, FormGroup, Input, InputGroup, InputGroupText } from 'reactstrap';
 
 var NAMES = [];
 for (const key of Object.keys(NAME2ID)) {
@@ -83,12 +83,16 @@ function newDrug() {
 function DownloadBtn(props) {
   const downloadFile = () => {
     // create file in browser
-    const id2amt = collect(props.data);
+    const id2amt = collect(props.data.drugs);
     const res = [];
     for (const [drug_id, amount] of Object.entries(id2amt)) {
       res.push({ id: drug_id, name: DRUGS[drug_id].generic_name, amount: amount });
     }
-    const json = JSON.stringify(res, null, 2);
+    const json = JSON.stringify({
+      participant_id: props.data.participant_id,
+      date: props.data.date,
+      drugs: res,
+    }, null, 2);
     const blob = new Blob([json], { type: "application/json" });
     const href = URL.createObjectURL(blob);
 
@@ -106,9 +110,17 @@ function DownloadBtn(props) {
   return <Button color='primary' onClick={downloadFile}>ダウンロード</Button>;
 }
 
+function getToday() {
+  const d = new Date();
+  const offset = d.getTimezoneOffset();
+  const dd = new Date(d.getTime() - (offset * 60 * 1000));
+  return dd.toISOString().split('T')[0];
+}
 
 function DrugEditor() {
   const [drugs, setDrugs] = useState([newDrug()]);
+  const [participant_id, setParticipantId] = useState('');
+  const [date, setDate] = useState(getToday());
 
   const addDrug = (idx) => {
     const new_drugs = [...drugs];
@@ -133,9 +145,44 @@ function DrugEditor() {
     setDrugs(newDrugs);
   }
 
+  const onIDChange = (e) => {
+    setParticipantId(e.target.value);
+  }
+
+  const onDateChange = (e) => {
+    setDate(e.target.value);
+  }
+
   return (
     <>
       <Form>
+        <FormGroup row>
+          <h4>被験者情報</h4>
+          <Col sm={6}>
+            <Label for="participant_id" className="visually-hidden">ID</Label>
+            <Input
+              type="text"
+              name="participant_id"
+              id="participant_id"
+              placeholder="ID"
+              value={participant_id}
+              onChange={onIDChange}
+              valid={participant_id.length > 0}
+            />
+          </Col>
+          <Col sm={4}>
+            <Label for="date" className="visually-hidden">日付</Label>
+            <Input
+              type="date"
+              name="date"
+              id="date"
+              value={date}
+              onChange={onDateChange}
+              valid={date.length > 0}
+            />
+          </Col>
+        </FormGroup>
+        <h4>服薬情報</h4>
         {drugs.map((drug, idx) => (
           <DrugForm
             key={idx}
@@ -149,8 +196,12 @@ function DrugEditor() {
       </Form >
       <DrugSummary drugs={drugs} />
       <div>
-        <DownloadBtn data={drugs} />
-        <Button className='mx-2' onClick={() => setDrugs([newDrug()])}>リセット</Button>
+        <DownloadBtn data={{ drugs, participant_id, date }} />
+        <Button className='mx-2' onClick={() => {
+          setDrugs([newDrug()]);
+          setParticipantId('');
+          setDate(getToday());
+        }}>リセット</Button>
       </div>
     </>
   );
@@ -231,8 +282,10 @@ function DrugSummary(props) {
 
   return (
     <>
+      <h4>要約</h4>
+      <p>{summarize(id2amt)}</p>
+      <h4>換算値</h4>
       <ul>
-        <li>要約：{ summarize(id2amt) }</li>
         <li>CP換算: {(equiv.converted.cp_fga + equiv.converted.cp_sga).toFixed(2)}mg (FGA: {equiv.converted.cp_fga.toFixed(2)}mg, SGA: {equiv.converted.cp_sga.toFixed(2)}mg){ stringify_leftovers(unconv_cp) }</li>
         <li>BPD換算: {equiv.converted.bpd.toFixed(2)}mg{ stringify_leftovers(equiv.unconverted.bpd) }</li>
         <li>IMP換算: {equiv.converted.imp.toFixed(2)}mg{ stringify_leftovers(equiv.unconverted.imp) }</li>
