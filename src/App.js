@@ -33,16 +33,19 @@ function collect(drugs) {
 }
 
 function calc_equiv(d2amt) {
-  let res = {'cp_fga': 0, 'cp_sga': 0, 'bpd': 0, 'imp': 0, 'dzp': 0};
+  let converted = { 'cp_fga': 0, 'cp_sga': 0, 'bpd': 0, 'imp': 0, 'dzp': 0 };
+  let unconverted = { 'cp_fga': [], 'cp_sga': [], 'bpd': [], 'imp': [], 'dzp': [] };
   for (const [drug_id, amount] of Object.entries(d2amt)) {
     const equiv = DRUGS[drug_id].equiv_potency;
     for (const [equiv_key, equiv_potency] of Object.entries(equiv)) {
       if (!isNaN(equiv_potency)) {
-        res[equiv_key] += amount * equiv_potency;
+        converted[equiv_key] += amount * equiv_potency;
+      } else {
+        unconverted[equiv_key].push(drug_id);
       }
     }
   }
-  return res;
+  return {converted, unconverted};
 }
 
 
@@ -180,14 +183,28 @@ function DrugForm(props) {
 function DrugSummary(props) {
   const id2amt = collect(props.drugs);
   const equiv = calc_equiv(id2amt);
+  const unconv_cp = [...equiv.unconverted.cp_fga, ...equiv.unconverted.cp_sga];
+
+  const stringify_leftovers = (ids) => {
+    console.log(ids);
+    if (ids.length === 0) {
+      return '';
+    }
+    const p = [];
+    for (const drug_id of ids) {
+      p.push(`${DRUGS[drug_id].generic_name} ${id2amt[drug_id]}${DRUGS[drug_id].unit}`);
+    }
+    return ' + ' + p.join('、');
+  }
+
   return (
     <>
       <ul>
         <li>要約：{ summarize(id2amt) }</li>
-        <li>CP換算: { (equiv['cp_fga'] + equiv['cp_sga']).toFixed(2) }mg (FGA: { equiv['cp_fga'].toFixed(2) }mg, SGA: { equiv['cp_sga'].toFixed(2) }mg)</li>
-        <li>BPD換算: { equiv['bpd'].toFixed(2) }mg</li>
-        <li>IMP換算: { equiv['imp'].toFixed(2) }mg</li>
-        <li>DZP換算: { equiv['dzp'].toFixed(2) }mg</li>
+        <li>CP換算: {(equiv.converted.cp_fga + equiv.converted.cp_sga).toFixed(2)}mg (FGA: {equiv.converted.cp_fga.toFixed(2)}mg, SGA: {equiv.converted.cp_sga.toFixed(2)}mg){ stringify_leftovers(unconv_cp) }</li>
+        <li>BPD換算: {equiv.converted.bpd.toFixed(2)}mg{ stringify_leftovers(equiv.unconverted.bpd) }</li>
+        <li>IMP換算: {equiv.converted.imp.toFixed(2)}mg{ stringify_leftovers(equiv.unconverted.imp) }</li>
+        <li>DZP換算: {equiv.converted.dzp.toFixed(2)}mg{ stringify_leftovers(equiv.unconverted.dzp) }</li>
       </ul>
     </>
   )
