@@ -19,6 +19,9 @@ function collect(drugs) {
   // drug_id -> amount
   let drug2amount = {};
   for (const drug of drugs) {
+    if (isNaN(drug.amount)) {
+      continue;
+    }
     const drug_id = NAME2ID[drug.name];
     if (!drug_id) continue;
     if (drug2amount[drug_id] === undefined) {
@@ -51,12 +54,34 @@ function drugname2unit(drug_name) {
   }
 }
 
+function hiraToKata(str) {
+  return str.replace(/[\u3041-\u3096]/g, ch =>
+    String.fromCharCode(ch.charCodeAt(0) + 0x60)
+  );
+}
+
+function summarize(id2mat) {
+  const p = [];
+  for (const [drug_id, amount] of Object.entries(id2mat)) {
+    p.push(`${DRUGS[drug_id].generic_name} ${amount}${DRUGS[drug_id].unit}`);
+  }
+  if (p.length > 0) {
+    return p.join('、')
+  } else {
+    return 'なし';
+  }
+}
+
+function newDrug() {
+  return { name: '', amount: NaN };
+}
+
 function DrugEditor() {
-  const [drugs, setDrugs] = useState([{ name: '', amount: 0 }]);
+  const [drugs, setDrugs] = useState([newDrug()]);
 
   const addDrug = (idx) => {
     const new_drugs = [...drugs];
-    new_drugs.splice(idx + 1, 0, { name: '', amount: 0 });
+    new_drugs.splice(idx + 1, 0, newDrug());
     setDrugs(new_drugs);
   }
 
@@ -64,11 +89,12 @@ function DrugEditor() {
     if (drugs.length > 1) {
       setDrugs(drugs.filter((s, sidx) => idx !== sidx));
     } else {
-      setDrugs([{ name: '', amount: 0 }]);
+      setDrugs([newDrug()]);
     }
   }
 
   const onFormChange = (idx, drug) => {
+    console.log(drug);
     const newDrugs = drugs.map((s, sidx) => {
       if (idx !== sidx) return s;
       return Object.assign({}, s, drug);
@@ -80,7 +106,14 @@ function DrugEditor() {
     <>
       <Form>
         {drugs.map((drug, idx) => (
-          <DrugForm key={idx} onChange={(change) => onFormChange(idx, change)} addDrug={() => addDrug(idx)} removeDrug={() => removeDrug(idx)} selected={drug.name} />
+          <DrugForm
+            key={idx}
+            onChange={(change) => onFormChange(idx, change)}
+            addDrug={() => addDrug(idx)}
+            removeDrug={() => removeDrug(idx)}
+            selected={drug.name}
+            amount={drug.amount}
+          />
         ))}
       </Form >
       <DrugSummary drugs={drugs} />
@@ -101,7 +134,7 @@ function DrugForm(props) {
   }
 
   const onAmountChange = (e) => {
-    props.onChange({amount: Number(e.target.value)});
+    props.onChange({amount: e.target.value === '' ? NaN : Number(e.target.value)});
   }
 
   return (
@@ -115,11 +148,22 @@ function DrugForm(props) {
           clearButton={true}
           selected={props.selected === '' ? [] : [props.selected]}
           isValid={props.selected !== '' && (props.selected in NAME2ID)}
+          filterBy={(option, props) => {
+            const input = hiraToKata(props.text);
+            return option.startsWith(input);
+          }}
         />
       </Col>
       <Col sm={4}>
         <InputGroup>
-          <Input placeholder="Amount" type="number" onChange={onAmountChange} />
+          <Input
+            placeholder="Amount"
+            type="number"
+            onChange={onAmountChange}
+            value={isNaN(props.amount) ? '' : props.amount}
+            valid={!isNaN(props.amount)}
+            min={0}
+          />
           <InputGroupText>{drugname2unit(props.selected)}</InputGroupText>
         </InputGroup>
       </Col>
@@ -139,6 +183,7 @@ function DrugSummary(props) {
   return (
     <>
       <ul>
+        <li>要約：{ summarize(id2amt) }</li>
         <li>CP換算: { (equiv['cp_fga'] + equiv['cp_sga']).toFixed(2) }mg (FGA: { equiv['cp_fga'].toFixed(2) }mg, SGA: { equiv['cp_sga'].toFixed(2) }mg)</li>
         <li>BPD換算: { equiv['bpd'].toFixed(2) }mg</li>
         <li>IMP換算: { equiv['imp'].toFixed(2) }mg</li>
@@ -147,8 +192,6 @@ function DrugSummary(props) {
     </>
   )
 }
-
-
 
 function App() {
   return (
