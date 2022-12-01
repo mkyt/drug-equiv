@@ -296,7 +296,7 @@ function DrugSummary(props) {
     <>
       <h4>要約</h4>
       <p>{summarize(id2amt)}</p>
-      <h4>換算値</h4>
+      <h4>等価換算値</h4>
       <ul>
         <li>CP換算: {(equiv.converted.cp_fga + equiv.converted.cp_sga).toFixed(2)}mg (FGA: {equiv.converted.cp_fga.toFixed(2)}mg, SGA: {equiv.converted.cp_sga.toFixed(2)}mg){ stringify_leftovers(unconv_cp) }</li>
         <li>BPD換算: {equiv.converted.bpd.toFixed(2)}mg{ stringify_leftovers(equiv.unconverted.bpd) }</li>
