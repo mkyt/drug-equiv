@@ -1,3232 +1,3232 @@
 {
   "1": {
     "id": 1,
-    "generic_name": "\u30ec\u30bb\u30eb\u30d4\u30f3",
+    "generic_name": "レセルピン",
     "product_names": [
-      "\u30a2\u30dd\u30d7\u30ed\u30f3"
+      "アポプロン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 666.66,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "2": {
     "id": 2,
-    "generic_name": "\u30d6\u30ed\u30e0\u30da\u30ea\u30c9\u30fc\u30eb",
+    "generic_name": "ブロムペリドール",
     "product_names": [
-      "\u30a4\u30f3\u30d7\u30ed\u30e1\u30f3"
+      "インプロメン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 50.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "3": {
     "id": 3,
-    "generic_name": "\u30cd\u30e2\u30ca\u30d7\u30ea\u30c9",
+    "generic_name": "ネモナプリド",
     "product_names": [
-      "\u30a8\u30df\u30ec\u30fc\u30b9"
+      "エミレース"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 22.2,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "4": {
     "id": 4,
-    "generic_name": "\u30d4\u30e2\u30b8\u30c9",
+    "generic_name": "ピモジド",
     "product_names": [
-      "\u30aa\u30fc\u30e9\u30c3\u30d7"
+      "オーラップ"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 25.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "5": {
     "id": 5,
-    "generic_name": "\u30c1\u30a2\u30d7\u30ea\u30c9",
+    "generic_name": "チアプリド",
     "product_names": [
-      "\u30b0\u30e9\u30de\u30ea\u30fc\u30eb"
+      "グラマリール"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 1.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "6": {
     "id": 6,
-    "generic_name": "\u30e2\u30b5\u30d7\u30e9\u30df\u30f3",
+    "generic_name": "モサプラミン",
     "product_names": [
-      "\u30af\u30ec\u30df\u30f3"
+      "クレミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 3.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "7": {
     "id": 7,
-    "generic_name": "\u30af\u30ed\u30ab\u30d7\u30e9\u30df\u30f3",
+    "generic_name": "クロカプラミン",
     "product_names": [
-      "\u30af\u30ed\u30d5\u30a7\u30af\u30c8\u30f3"
+      "クロフェクトン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 2.5,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "8": {
     "id": 8,
-    "generic_name": "\u30af\u30ed\u30eb\u30d7\u30ed\u30de\u30b8\u30f3",
+    "generic_name": "クロルプロマジン",
     "product_names": [
-      "\u30b3\u30f3\u30c8\u30df\u30f3",
-      "\u30a6\u30a4\u30f3\u30bf\u30df\u30f3"
+      "コントミン",
+      "ウインタミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 1.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "9": {
     "id": 9,
-    "generic_name": "\u30b9\u30d4\u30ed\u30d4\u30bf\u30f3",
+    "generic_name": "スピロピタン",
     "product_names": [
-      "\u30b9\u30d4\u30da\u30ed\u30f3"
+      "スピペロン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 100.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "10": {
     "id": 10,
-    "generic_name": "\u30cf\u30ed\u30da\u30ea\u30c9\u30fc\u30eb",
+    "generic_name": "ハロペリドール",
     "product_names": [
-      "\u30bb\u30ec\u30cd\u30fc\u30b9",
-      "\u30ea\u30f3\u30c8\u30f3",
-      "\u30cf\u30ed\u30b9\u30c6\u30f3"
+      "セレネース",
+      "リントン",
+      "ハロステン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 50.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "11": {
     "id": 11,
-    "generic_name": "\u30ab\u30eb\u30d4\u30d7\u30e9\u30f3",
+    "generic_name": "カルピプラン",
     "product_names": [
-      "\u30c7\u30d5\u30a7\u30af\u30c8\u30f3"
+      "デフェクトン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 1.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "12": {
     "id": 12,
-    "generic_name": "\u30af\u30ed\u30c1\u30a2\u30d4\u30f3",
+    "generic_name": "クロチアピン",
     "product_names": [
-      "\u30c7\u30ea\u30c8\u30f3"
+      "デリトン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 2.5,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "13": {
     "id": 13,
-    "generic_name": "\u30b9\u30eb\u30d4\u30ea\u30c9",
+    "generic_name": "スルピリド",
     "product_names": [
-      "\u30c9\u30b0\u30de\u30c1\u30fc\u30eb",
-      "\u30a2\u30d3\u30ea\u30c3\u30c8",
-      "\u30df\u30e9\u30c9\u30fc\u30eb"
+      "ドグマチール",
+      "アビリット",
+      "ミラドール"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 0.5,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "14": {
     "id": 14,
-    "generic_name": "\u30c8\u30ea\u30d5\u30ed\u30da\u30e9\u30b8\u30f3",
+    "generic_name": "トリフロペラジン",
     "product_names": [],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 20.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "15": {
     "id": 15,
-    "generic_name": "\u30c1\u30df\u30da\u30ed\u30f3",
+    "generic_name": "チミペロン",
     "product_names": [
-      "\u30c8\u30ed\u30da\u30ed\u30f3"
+      "トロペロン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 76.9,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "16": {
     "id": 16,
-    "generic_name": "\u30c1\u30aa\u30c1\u30ad\u30bb\u30f3",
+    "generic_name": "チオチキセン",
     "product_names": [
-      "\u30ca\u30fc\u30d9\u30f3"
+      "ナーベン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 30.3,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "17": {
     "id": 17,
-    "generic_name": "\u30d7\u30ed\u30da\u30ea\u30b7\u30a2\u30b8\u30f3",
+    "generic_name": "プロペリシアジン",
     "product_names": [
-      "\u30cb\u30e5\u30fc\u30ec\u30d7\u30c1\u30eb"
+      "ニューレプチル"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 5.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "18": {
     "id": 18,
-    "generic_name": "\u30d7\u30ed\u30af\u30ed\u30eb\u30da\u30e9\u30b8\u30f3",
+    "generic_name": "プロクロルペラジン",
     "product_names": [
-      "\u30ce\u30d0\u30df\u30f3"
+      "ノバミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 6.7,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "19": {
     "id": 19,
-    "generic_name": "\u30b9\u30eb\u30c8\u30d7\u30ea\u30c9",
+    "generic_name": "スルトプリド",
     "product_names": [
-      "\u30d0\u30eb\u30cd\u30c1\u30fc\u30eb"
+      "バルネチール"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 0.5,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "20": {
     "id": 20,
-    "generic_name": "\u30da\u30eb\u30d5\u30a7\u30ca\u30b8\u30f3",
+    "generic_name": "ペルフェナジン",
     "product_names": [
-      "\u30d4\u30fc\u30bc\u30c3\u30c8\u30b7\u30fc",
-      "\u30c8\u30ea\u30aa\u30df\u30f3",
-      "\u30c8\u30ea\u30e9\u30db\u30f3"
+      "ピーゼットシー",
+      "トリオミン",
+      "トリラホン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 10.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "21": {
     "id": 21,
-    "generic_name": "\u30ec\u30dc\u30e1\u30d7\u30ed\u30de\u30b8\u30f3",
+    "generic_name": "レボメプロマジン",
     "product_names": [
-      "\u30d2\u30eb\u30ca\u30df\u30f3",
-      "\u30ec\u30dc\u30c8\u30df\u30f3"
+      "ヒルナミン",
+      "レボトミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 1.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "22": {
     "id": 22,
-    "generic_name": "\u30da\u30e9\u30b8\u30f3",
+    "generic_name": "ペラジン",
     "product_names": [
-      "\u30d7\u30b7\u30c8\u30df\u30f3"
+      "プシトミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 1.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "23": {
     "id": 23,
-    "generic_name": "\u30d5\u30eb\u30d5\u30a7\u30ca\u30b8\u30f3",
+    "generic_name": "フルフェナジン",
     "product_names": [
-      "\u30d5\u30eb\u30e1\u30b8\u30f3"
+      "フルメジン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 50.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "24": {
     "id": 24,
-    "generic_name": "\u30d4\u30d1\u30f3\u30da\u30ed\u30f3",
+    "generic_name": "ピパンペロン",
     "product_names": [
-      "\u30d7\u30ed\u30d4\u30bf\u30f3"
+      "プロピタン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 0.5,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "25": {
     "id": 25,
-    "generic_name": "\u30aa\u30ad\u30b7\u30da\u30eb\u30c1\u30f3",
+    "generic_name": "オキシペルチン",
     "product_names": [
-      "\u30db\u30fc\u30ea\u30c3\u30c8"
+      "ホーリット"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 1.3,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "26": {
     "id": 26,
-    "generic_name": "\u30c1\u30aa\u30ea\u30c0\u30b8\u30f3",
+    "generic_name": "チオリダジン",
     "product_names": [
-      "\u30e1\u30ec\u30ea\u30eb"
+      "メレリル"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 1.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "27": {
     "id": 27,
-    "generic_name": "\u30e2\u30da\u30ed\u30f3",
+    "generic_name": "モペロン",
     "product_names": [
-      "\u30eb\u30d0\u30c8\u30ec\u30f3"
+      "ルバトレン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 8.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "28": {
     "id": 28,
-    "generic_name": "\u30be\u30c6\u30d4\u30f3",
+    "generic_name": "ゾテピン",
     "product_names": [
-      "\u30ed\u30c9\u30d4\u30f3",
-      "\u30ed\u30b7\u30be\u30d4\u30ed\u30f3"
+      "ロドピン",
+      "ロシゾピロン"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08FGA\uff09",
+    "class": "抗精神病薬（FGA）",
     "equiv_potency": {
       "cp_fga": 1.5,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "29": {
     "id": 29,
-    "generic_name": "\u30d1\u30ea\u30da\u30ea\u30c9\u30f3",
+    "generic_name": "パリペリドン",
     "product_names": [
-      "\u30a4\u30f3\u30f4\u30a7\u30ac"
+      "インヴェガ"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
+    "class": "抗精神病薬（SGA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 66.7,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "30": {
     "id": 30,
-    "generic_name": "\u30a2\u30ea\u30d4\u30d7\u30e9\u30be\u30fc\u30eb",
+    "generic_name": "アリピプラゾール",
     "product_names": [
-      "\u30a8\u30d3\u30ea\u30d5\u30a1\u30a4"
+      "エビリファイ"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
+    "class": "抗精神病薬（SGA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 25.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "31": {
     "id": 31,
-    "generic_name": "\u30af\u30ed\u30b6\u30d4\u30f3",
+    "generic_name": "クロザピン",
     "product_names": [
-      "\u30af\u30ed\u30b6\u30ea\u30eb"
+      "クロザリル"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
+    "class": "抗精神病薬（SGA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 2.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "32": {
     "id": 32,
-    "generic_name": "\u30a2\u30bb\u30ca\u30d4\u30f3",
+    "generic_name": "アセナピン",
     "product_names": [
-      "\u30b7\u30af\u30ec\u30b9\u30c8"
+      "シクレスト"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
+    "class": "抗精神病薬（SGA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 40.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "33": {
     "id": 33,
-    "generic_name": "\u30aa\u30e9\u30f3\u30b6\u30d4\u30f3",
+    "generic_name": "オランザピン",
     "product_names": [
-      "\u30b8\u30d7\u30ec\u30ad\u30b5",
-      "\u30b8\u30d7\u30ec\u30ad\u30b5\u30b6\u30a4\u30c7\u30a3\u30b9"
+      "ジプレキサ",
+      "ジプレキサザイディス"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
+    "class": "抗精神病薬（SGA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 40.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "34": {
     "id": 34,
-    "generic_name": "\u30af\u30a8\u30c1\u30a2\u30d4\u30f3",
+    "generic_name": "クエチアピン",
     "product_names": [
-      "\u30bb\u30ed\u30af\u30a8\u30eb"
+      "セロクエル"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
+    "class": "抗精神病薬（SGA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 1.5,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "35": {
     "id": 35,
-    "generic_name": "\u30af\u30a8\u30c1\u30a2\u30d4\u30f3\u5f90\u653e\u5264",
+    "generic_name": "クエチアピン徐放剤",
     "product_names": [
-      "\u30d3\u30d7\u30ec\u30c3\u30bd"
+      "ビプレッソ"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
+    "class": "抗精神病薬（SGA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 1.5,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "36": {
     "id": 36,
-    "generic_name": "\u30eb\u30e9\u30b7\u30c9\u30f3",
+    "generic_name": "ルラシドン",
     "product_names": [
-      "\u30e9\u30c4\u30fc\u30c0"
+      "ラツーダ"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 0.0,
-      "cp_sga": "???",
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "37": {
-    "id": 37,
-    "generic_name": "\u30ea\u30b9\u30da\u30ea\u30c9\u30f3",
-    "product_names": [
-      "\u30ea\u30b9\u30d1\u30c0\u30fc\u30eb"
-    ],
-    "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 0.0,
-      "cp_sga": 100.0,
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "38": {
-    "id": 38,
-    "generic_name": "\u30da\u30ed\u30b9\u30d4\u30ed\u30f3",
-    "product_names": [
-      "\u30eb\u30fc\u30e9\u30f3"
-    ],
-    "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 0.0,
-      "cp_sga": 12.5,
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "39": {
-    "id": 39,
-    "generic_name": "\u30d6\u30ec\u30af\u30b9\u30d4\u30d7\u30e9\u30be\u30fc\u30eb",
-    "product_names": [
-      "\u30ec\u30ad\u30b5\u30eb\u30c6\u30a3"
-    ],
-    "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 0.0,
-      "cp_sga": "???",
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "40": {
-    "id": 40,
-    "generic_name": "\u30d6\u30ed\u30ca\u30f3\u30bb\u30ea\u30f3",
-    "product_names": [
-      "\u30ed\u30ca\u30bb\u30f3"
-    ],
-    "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08SGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 0.0,
-      "cp_sga": 25.0,
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "41": {
-    "id": 41,
-    "generic_name": "\u30d6\u30ed\u30ca\u30f3\u30bb\u30ea\u30f3\u8cbc\u4ed8\u5264",
-    "product_names": [
-      "\u30ed\u30ca\u30bb\u30f3\u30c6\u30fc\u30d7"
-    ],
-    "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u8cbc\u4ed8\u5264\u30fbSGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 0.0,
-      "cp_sga": "???",
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "42": {
-    "id": 42,
-    "generic_name": "\u30d5\u30eb\u30d5\u30a7\u30ca\u30b8\u30f3\u30a8\u30ca\u30f3\u30c8\u9178\u30a8\u30b9\u30c6\u30eb \u6301\u52b9\u6027\u6ce8\u5c04\u5264",
-    "product_names": [
-      "\u30a2\u30ca\u30c6\u30f3\u30be\u30fc\u30eb"
-    ],
-    "unit": "mg/2\u9031\u9593",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u6301\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 13.3,
-      "cp_sga": 0.0,
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "43": {
-    "id": 43,
-    "generic_name": "\u30a2\u30ea\u30d4\u30d7\u30e9\u30be\u30fc\u30eb\u6301\u52b9\u6027\u6ce8\u5c04\u5264",
-    "product_names": [
-      "\u30a8\u30d3\u30ea\u30d5\u30a1\u30a4\u6301\u7d9a\u6027\u6c34\u61f8\u7b4b\u6ce8"
-    ],
-    "unit": "mg/4\u9031\u9593",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u6301\u52b9\u6027\u6ce8\u5c04\u5264\u30fbSGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 0.0,
-      "cp_sga": 1.0,
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "44": {
-    "id": 44,
-    "generic_name": "\u30d1\u30ea\u30da\u30ea\u30c9\u30f3\u30d1\u30eb\u30df\u30c1\u30f3\u9178\u30a8\u30b9\u30c6\u30eb\u6301\u52b9\u6027\u6ce8\u5c04\u5264",
-    "product_names": [
-      "\u30bc\u30d7\u30ea\u30aa\u30f3"
-    ],
-    "unit": "mg/4\u9031\u9593\u91cf",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u6301\u52b9\u6027\u6ce8\u5c04\u5264\u30fbSGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 0.0,
-      "cp_sga": 5.33,
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "45": {
-    "id": 45,
-    "generic_name": "\u30d1\u30ea\u30da\u30ea\u30c9\u30f3\u30d1\u30eb\u30df\u30c1\u30f3\u9178\u30a8\u30b9\u30c6\u30eb\u6301\u52b9\u6027\u6ce8\u5c04\u5264TRI",
-    "product_names": [
-      "\u30bc\u30d7\u30ea\u30aa\u30f3TRI"
-    ],
-    "unit": "mg/12\u9031\u9593\u91cf",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u6301\u52b9\u6027\u6ce8\u5c04\u5264\u30fbSGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 0.0,
-      "cp_sga": 1.52,
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "46": {
-    "id": 46,
-    "generic_name": "\u30cf\u30ed\u30da\u30ea\u30c9\u30fc\u30eb\u30c7\u30ab\u30f3\u9178\u30a8\u30b9\u30c6\u30eb\u6301\u52b9\u6027\u6ce8\u5c04\u5264",
-    "product_names": [
-      "\u30cf\u30ed\u30de\u30f3\u30b9"
-    ],
-    "unit": "mg/4\u9031\u9593\u91cf",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u6301\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 3.3,
-      "cp_sga": 0.0,
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "47": {
-    "id": 47,
-    "generic_name": "\u30d5\u30eb\u30d5\u30a7\u30ca\u30b8\u30f3\u30c7\u30ab\u30f3\u9178\u30a8\u30b9\u30c6\u30eb\u6301\u52b9\u6027\u6ce8\u5c04\u5264",
-    "product_names": [
-      "\u30d5\u30eb\u30c7\u30ab\u30b7\u30f3"
-    ],
-    "unit": "mg/4\u9031\u9593\u91cf",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u6301\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
-    "equiv_potency": {
-      "cp_fga": 6.7,
-      "cp_sga": 0.0,
-      "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
-    }
-  },
-  "48": {
-    "id": 48,
-    "generic_name": "\u30ea\u30b9\u30da\u30ea\u30c9\u30f3\u6301\u52b9\u6027\u6ce8\u5c04\u5264",
-    "product_names": [
-      "\u30ea\u30b9\u30d1\u30c0\u30fc\u30eb\u30b3\u30f3\u30b9\u30bf"
-    ],
-    "unit": "mg/2\u9031\u9593\u91cf",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u6301\u52b9\u6027\u6ce8\u5c04\u5264\u30fbSGA\uff09",
+    "class": "抗精神病薬（SGA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 10.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "37": {
+    "id": 37,
+    "generic_name": "リスペリドン",
+    "product_names": [
+      "リスパダール"
+    ],
+    "unit": "mg",
+    "class": "抗精神病薬（SGA）",
+    "equiv_potency": {
+      "cp_fga": 0.0,
+      "cp_sga": 100.0,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "38": {
+    "id": 38,
+    "generic_name": "ペロスピロン",
+    "product_names": [
+      "ルーラン"
+    ],
+    "unit": "mg",
+    "class": "抗精神病薬（SGA）",
+    "equiv_potency": {
+      "cp_fga": 0.0,
+      "cp_sga": 12.5,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "39": {
+    "id": 39,
+    "generic_name": "ブレクスピプラゾール",
+    "product_names": [
+      "レキサルティ"
+    ],
+    "unit": "mg",
+    "class": "抗精神病薬（SGA）",
+    "equiv_potency": {
+      "cp_fga": 0.0,
+      "cp_sga": 200.0,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "40": {
+    "id": 40,
+    "generic_name": "ブロナンセリン",
+    "product_names": [
+      "ロナセン"
+    ],
+    "unit": "mg",
+    "class": "抗精神病薬（SGA）",
+    "equiv_potency": {
+      "cp_fga": 0.0,
+      "cp_sga": 25.0,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "41": {
+    "id": 41,
+    "generic_name": "ブロナンセリン貼付剤",
+    "product_names": [
+      "ロナセンテープ"
+    ],
+    "unit": "mg",
+    "class": "抗精神病薬（貼付剤・SGA）",
+    "equiv_potency": {
+      "cp_fga": 0.0,
+      "cp_sga": 5.0,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "42": {
+    "id": 42,
+    "generic_name": "フルフェナジンエナント酸エステル 持効性注射剤",
+    "product_names": [
+      "アナテンゾール"
+    ],
+    "unit": "mg/2週間",
+    "class": "抗精神病薬（持効性注射剤・FGA）",
+    "equiv_potency": {
+      "cp_fga": 13.3,
+      "cp_sga": 0.0,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "43": {
+    "id": 43,
+    "generic_name": "アリピプラゾール持効性注射剤",
+    "product_names": [
+      "エビリファイ持続性水懸筋注"
+    ],
+    "unit": "mg/4週間",
+    "class": "抗精神病薬（持効性注射剤・SGA）",
+    "equiv_potency": {
+      "cp_fga": 0.0,
+      "cp_sga": 1.0,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "44": {
+    "id": 44,
+    "generic_name": "パリペリドンパルミチン酸エステル持効性注射剤",
+    "product_names": [
+      "ゼプリオン"
+    ],
+    "unit": "mg/4週間量",
+    "class": "抗精神病薬（持効性注射剤・SGA）",
+    "equiv_potency": {
+      "cp_fga": 0.0,
+      "cp_sga": 5.33,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "45": {
+    "id": 45,
+    "generic_name": "パリペリドンパルミチン酸エステル持効性注射剤TRI",
+    "product_names": [
+      "ゼプリオンTRI"
+    ],
+    "unit": "mg/12週間量",
+    "class": "抗精神病薬（持効性注射剤・SGA）",
+    "equiv_potency": {
+      "cp_fga": 0.0,
+      "cp_sga": 1.52,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "46": {
+    "id": 46,
+    "generic_name": "ハロペリドールデカン酸エステル持効性注射剤",
+    "product_names": [
+      "ハロマンス"
+    ],
+    "unit": "mg/4週間量",
+    "class": "抗精神病薬（持効性注射剤・FGA）",
+    "equiv_potency": {
+      "cp_fga": 3.3,
+      "cp_sga": 0.0,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "47": {
+    "id": 47,
+    "generic_name": "フルフェナジンデカン酸エステル持効性注射剤",
+    "product_names": [
+      "フルデカシン"
+    ],
+    "unit": "mg/4週間量",
+    "class": "抗精神病薬（持効性注射剤・FGA）",
+    "equiv_potency": {
+      "cp_fga": 6.7,
+      "cp_sga": 0.0,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
+    }
+  },
+  "48": {
+    "id": 48,
+    "generic_name": "リスペリドン持効性注射剤",
+    "product_names": [
+      "リスパダールコンスタ"
+    ],
+    "unit": "mg/2週間量",
+    "class": "抗精神病薬（持効性注射剤・SGA）",
+    "equiv_potency": {
+      "cp_fga": 0.0,
+      "cp_sga": 10.0,
+      "bpd": 0.0,
+      "imp": 0,
+      "dzp": 0
     }
   },
   "49": {
     "id": 49,
-    "generic_name": "\u30af\u30ed\u30eb\u30d7\u30ed\u30de\u30b8\u30f3\u6ce8\u5c04\u5264",
+    "generic_name": "クロルプロマジン注射剤",
     "product_names": [
-      "\u30b3\u30f3\u30c8\u30df\u30f3\u7b4b\u6ce8"
+      "コントミン筋注"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u5373\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
+    "class": "抗精神病薬（即効性注射剤・FGA）",
     "equiv_potency": {
       "cp_fga": 3.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "50": {
     "id": 50,
-    "generic_name": "\u30aa\u30e9\u30f3\u30b6\u30d4\u30f3\u6ce8\u5c04\u5264",
+    "generic_name": "オランザピン注射剤",
     "product_names": [
-      "\u30b8\u30d7\u30ec\u30ad\u30b5\u7b4b\u6ce8"
+      "ジプレキサ筋注"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u5373\u52b9\u6027\u6ce8\u5c04\u5264\u30fbSGA\uff09",
+    "class": "抗精神病薬（即効性注射剤・SGA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 44.4,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "51": {
     "id": 51,
-    "generic_name": "\u30cf\u30ed\u30da\u30ea\u30c9\u30fc\u30eb\u6ce8\u5c04\u5264",
+    "generic_name": "ハロペリドール注射剤",
     "product_names": [
-      "\u30bb\u30ec\u30cd\u30fc\u30b9\u6ce8",
-      "\u30cf\u30ed\u30da\u30ea\u30c9\u30fc\u30eb\u6ce8"
+      "セレネース注",
+      "ハロペリドール注"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u5373\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
+    "class": "抗精神病薬（即効性注射剤・FGA）",
     "equiv_potency": {
       "cp_fga": 100.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "52": {
     "id": 52,
-    "generic_name": "\u30b9\u30eb\u30d4\u30ea\u30c9\u6ce8\u5c04\u5264",
+    "generic_name": "スルピリド注射剤",
     "product_names": [
-      "\u30c9\u30b0\u30de\u30c1\u30fc\u30eb\u7b4b\u6ce8",
-      "\u30d4\u30ea\u30ab\u30c3\u30d7\u30eb\u7b4b\u6ce8"
+      "ドグマチール筋注",
+      "ピリカップル筋注"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u5373\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
+    "class": "抗精神病薬（即効性注射剤・FGA）",
     "equiv_potency": {
       "cp_fga": 2.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "53": {
     "id": 53,
-    "generic_name": "\u30c1\u30df\u30da\u30ed\u30f3\u6ce8\u5c04\u5264",
+    "generic_name": "チミペロン注射剤",
     "product_names": [
-      "\u30c8\u30ed\u30da\u30ed\u30f3\u6ce8"
+      "トロペロン注"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u5373\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
+    "class": "抗精神病薬（即効性注射剤・FGA）",
     "equiv_potency": {
       "cp_fga": 526.3,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "54": {
     "id": 54,
-    "generic_name": "\u30d7\u30ed\u30af\u30ed\u30eb\u30da\u30e9\u30b8\u30f3\u6ce8\u5c04\u5264",
+    "generic_name": "プロクロルペラジン注射剤",
     "product_names": [
-      "\u30ce\u30d0\u30df\u30f3\u7b4b\u6ce8"
+      "ノバミン筋注"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u5373\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
+    "class": "抗精神病薬（即効性注射剤・FGA）",
     "equiv_potency": {
       "cp_fga": 46.7,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "55": {
     "id": 55,
-    "generic_name": "\u30da\u30eb\u30d5\u30a7\u30ca\u30b8\u30f3\u6ce8\u5c04\u5264",
+    "generic_name": "ペルフェナジン注射剤",
     "product_names": [
-      "\u30d4\u30fc\u30bc\u30c3\u30c8\u30b7\u30fc\u7b4b\u6ce8"
+      "ピーゼットシー筋注"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u5373\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
+    "class": "抗精神病薬（即効性注射剤・FGA）",
     "equiv_potency": {
       "cp_fga": 50.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "56": {
     "id": 56,
-    "generic_name": "\u30ec\u30dc\u30e1\u30d7\u30ed\u30de\u30b8\u30f3\u6ce8\u5c04\u5264",
+    "generic_name": "レボメプロマジン注射剤",
     "product_names": [
-      "\u30d2\u30eb\u30ca\u30df\u30f3\u7b4b\u6ce8"
+      "ヒルナミン筋注"
     ],
     "unit": "mg",
-    "class": "\u6297\u7cbe\u795e\u75c5\u85ac\uff08\u5373\u52b9\u6027\u6ce8\u5c04\u5264\u30fbFGA\uff09",
+    "class": "抗精神病薬（即効性注射剤・FGA）",
     "equiv_potency": {
       "cp_fga": 4.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "57": {
     "id": 57,
-    "generic_name": "\u30bb\u30b3\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb",
+    "generic_name": "セコバルビタール",
     "product_names": [
-      "\u30a2\u30a4\u30aa\u30ca\u30fc\u30eb"
+      "アイオナール"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d0\u30eb\u30d3\u30c4\u30fc\u30eb\u9178\uff09",
+    "class": "抗不安・睡眠薬（バルビツール酸）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.1
     }
   },
   "58": {
     "id": 58,
-    "generic_name": "\u30a2\u30e2\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb",
+    "generic_name": "アモバルビタール",
     "product_names": [
-      "\u30a4\u30bd\u30df\u30bf\u30fc\u30eb"
+      "イソミタール"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d0\u30eb\u30d3\u30c4\u30fc\u30eb\u9178\uff09",
+    "class": "抗不安・睡眠薬（バルビツール酸）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.1
     }
   },
   "59": {
     "id": 59,
-    "generic_name": "\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb",
+    "generic_name": "バルビタール",
     "product_names": [],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d0\u30eb\u30d3\u30c4\u30fc\u30eb\u9178\uff09",
+    "class": "抗不安・睡眠薬（バルビツール酸）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.07
     }
   },
   "60": {
     "id": 60,
-    "generic_name": "\u30d5\u30a7\u30ce\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb",
+    "generic_name": "フェノバルビタール",
     "product_names": [
-      "\u30d5\u30a7\u30ce\u30d0\u30fc\u30eb"
+      "フェノバール"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d0\u30eb\u30d3\u30c4\u30fc\u30eb\u9178\uff09",
+    "class": "抗不安・睡眠薬（バルビツール酸）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.33
     }
   },
   "61": {
     "id": 61,
-    "generic_name": "\u30da\u30f3\u30c8\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb",
+    "generic_name": "ペントバルビタール",
     "product_names": [
-      "\u30e9\u30dc\u30ca"
+      "ラボナ"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d0\u30eb\u30d3\u30c4\u30fc\u30eb\u9178\uff09",
+    "class": "抗不安・睡眠薬（バルビツール酸）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.1
     }
   },
   "62": {
     "id": 62,
-    "generic_name": "\u30d1\u30c3\u30b7\u30d5\u30ed\u30fc\u30e9\u30a8\u30ad\u30b9",
+    "generic_name": "パッシフローラエキス",
     "product_names": [],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "63": {
     "id": 63,
-    "generic_name": "\u30d5\u30a7\u30cb\u30c8\u30a4\u30f3\u30fb\u30d5\u30a7\u30ce\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb\u914d\u5408\u5264D",
+    "generic_name": "フェニトイン・フェノバルビタール配合剤D",
     "product_names": [
-      "\u30d2\u30c0\u30f3\u30c8\u30fc\u30ebD\u914d\u5408\u9320"
+      "ヒダントールD配合錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "unit": "錠",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 2.78
     }
   },
   "64": {
     "id": 64,
-    "generic_name": "\u30d5\u30a7\u30cb\u30c8\u30a4\u30f3\u30fb\u30d5\u30a7\u30ce\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb\u914d\u5408\u5264E",
+    "generic_name": "フェニトイン・フェノバルビタール配合剤E",
     "product_names": [
-      "\u30d2\u30c0\u30f3\u30c8\u30fc\u30ebE\u914d\u5408\u9320"
+      "ヒダントールE配合錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "unit": "錠",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 2.78
     }
   },
   "65": {
     "id": 65,
-    "generic_name": "\u30d5\u30a7\u30cb\u30c8\u30a4\u30f3\u30fb\u30d5\u30a7\u30ce\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb\u914d\u5408\u5264F",
+    "generic_name": "フェニトイン・フェノバルビタール配合剤F",
     "product_names": [
-      "\u30d2\u30c0\u30f3\u30c8\u30fc\u30ebF\u914d\u5408\u9320"
+      "ヒダントールF配合錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "unit": "錠",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 2.78
     }
   },
   "66": {
     "id": 66,
-    "generic_name": "\u30d6\u30ed\u30e2\u30d0\u30ec\u30ea\u30eb\u5c3f\u7d20",
+    "generic_name": "ブロモバレリル尿素",
     "product_names": [
-      "\u30d6\u30ed\u30d0\u30ea\u30f3"
+      "ブロバリン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.01
     }
   },
   "67": {
     "id": 67,
-    "generic_name": "\u30af\u30ed\u30eb\u30d7\u30ed\u30de\u30b8\u30f3\u30fb\u30d7\u30ed\u30e1\u30bf\u30b8\u30f3\u914d\u5408\u5264A",
+    "generic_name": "クロルプロマジン・プロメタジン配合剤A",
     "product_names": [
-      "\u30d9\u30b2\u30bf\u30df\u30f3A\u914d\u5408\u9320"
+      "ベゲタミンA配合錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "unit": "錠",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 25.0,
       "cp_sga": 0.0,
       "bpd": 0.5,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 13.33
     }
   },
   "68": {
     "id": 68,
-    "generic_name": "\u30af\u30ed\u30eb\u30d7\u30ed\u30de\u30b8\u30f3\u30fb\u30d7\u30ed\u30e1\u30bf\u30b8\u30f3\u914d\u5408\u5264B",
+    "generic_name": "クロルプロマジン・プロメタジン配合剤B",
     "product_names": [
-      "\u30d9\u30b2\u30bf\u30df\u30f3B\u914d\u5408\u9320"
+      "ベゲタミンB配合錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "unit": "錠",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 12.5,
       "cp_sga": 0.0,
       "bpd": 0.5,
-      "imp": 0.0,
-      "dzp": 10.0
+      "imp": 0,
+      "dzp": 10
     }
   },
   "69": {
     "id": 69,
-    "generic_name": "\u30d6\u30c8\u30af\u30bf\u30df\u30c9",
+    "generic_name": "ブトクタミド",
     "product_names": [
-      "\u30ea\u30b9\u30c8\u30df\u30f3\uff33"
+      "リストミンＳ"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.01
     }
   },
   "70": {
     "id": 70,
-    "generic_name": "\u30d5\u30a7\u30cb\u30c8\u30a4\u30f3\u30fb\u30d5\u30a7\u30ce\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb\u914d\u5408\u5264",
+    "generic_name": "フェニトイン・フェノバルビタール配合剤",
     "product_names": [
-      "\u8907\u5408\u30a2\u30ec\u30d3\u30a2\u30c1\u30f3\u914d\u5408\u9320"
+      "複合アレビアチン配合錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "unit": "錠",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 11.0
+      "imp": 0,
+      "dzp": 11
     }
   },
   "71": {
     "id": 71,
-    "generic_name": "\u62b1\u6c34\u30af\u30ed\u30e9\u30fc\u30eb",
+    "generic_name": "抱水クロラール",
     "product_names": [],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.02
     }
   },
   "72": {
     "id": 72,
-    "generic_name": "\u30d5\u30eb\u30b8\u30a2\u30bc\u30d1\u30e0",
+    "generic_name": "フルジアゼパム",
     "product_names": [
-      "\u30a8\u30ea\u30b9\u30d1\u30f3"
+      "エリスパン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 10.0
+      "imp": 0,
+      "dzp": 10
     }
   },
   "73": {
     "id": 73,
-    "generic_name": "\u30cb\u30e1\u30bf\u30bc\u30d1\u30e0",
+    "generic_name": "ニメタゼパム",
     "product_names": [
-      "\u30a8\u30ea\u30df\u30f3"
+      "エリミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 1.0
+      "imp": 0,
+      "dzp": 1
     }
   },
   "74": {
     "id": 74,
-    "generic_name": "\u30c8\u30d5\u30a3\u30bd\u30d1\u30e0",
+    "generic_name": "トフィソパム",
     "product_names": [
-      "\u30b0\u30e9\u30f3\u30c0\u30ad\u30b7\u30f3"
+      "グランダキシン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.04
     }
   },
   "75": {
     "id": 75,
-    "generic_name": "\u30d5\u30eb\u30bf\u30be\u30e9\u30e0",
+    "generic_name": "フルタゾラム",
     "product_names": [
-      "\u30b3\u30ec\u30df\u30ca\u30fc\u30eb"
+      "コレミナール"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.33
     }
   },
   "76": {
     "id": 76,
-    "generic_name": "\u30af\u30ed\u30eb\u30b8\u30a2\u30bc\u30dd\u30ad\u30b7\u30c9",
+    "generic_name": "クロルジアゼポキシド",
     "product_names": [
-      "\u30b3\u30f3\u30c8\u30fc\u30eb",
-      "\u30d0\u30e9\u30f3\u30b9"
+      "コントール",
+      "バランス"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.5
     }
   },
   "77": {
     "id": 77,
-    "generic_name": "\u30d5\u30eb\u30cb\u30c8\u30e9\u30bc\u30d1\u30e0",
+    "generic_name": "フルニトラゼパム",
     "product_names": [
-      "\u30b5\u30a4\u30ec\u30fc\u30b9",
-      "\u30ed\u30d2\u30d7\u30ce\u30fc\u30eb"
+      "サイレース",
+      "ロヒプノール"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 5.0
+      "imp": 0,
+      "dzp": 5
     }
   },
   "78": {
     "id": 78,
-    "generic_name": "\u30d7\u30e9\u30bc\u30d1\u30e0",
+    "generic_name": "プラゼパム",
     "product_names": [
-      "\u30bb\u30c0\u30d7\u30e9\u30f3"
+      "セダプラン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.4
     }
   },
   "79": {
     "id": 79,
-    "generic_name": "\u30af\u30ed\u30ad\u30b5\u30be\u30e9\u30e0",
+    "generic_name": "クロキサゾラム",
     "product_names": [
-      "\u30bb\u30d1\u30be\u30f3"
+      "セパゾン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 3.33
     }
   },
   "80": {
     "id": 80,
-    "generic_name": "\u30b8\u30a2\u30bc\u30d1\u30e0",
+    "generic_name": "ジアゼパム",
     "product_names": [
-      "\u30bb\u30eb\u30b7\u30f3",
-      "\u30db\u30ea\u30be\u30f3"
+      "セルシン",
+      "ホリゾン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 1.0
+      "imp": 0,
+      "dzp": 1
     }
   },
   "81": {
     "id": 81,
-    "generic_name": "\u30aa\u30ad\u30b5\u30be\u30e9\u30e0",
+    "generic_name": "オキサゾラム",
     "product_names": [
-      "\u30bb\u30ec\u30ca\u30fc\u30eb"
+      "セレナール"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.25
     }
   },
   "82": {
     "id": 82,
-    "generic_name": "\u30cf\u30ed\u30ad\u30b5\u30be\u30e9\u30e0",
+    "generic_name": "ハロキサゾラム",
     "product_names": [
-      "\u30bd\u30e1\u30ea\u30f3"
+      "ソメリン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 1.0
+      "imp": 0,
+      "dzp": 1
     }
   },
   "83": {
     "id": 83,
-    "generic_name": "\u30a2\u30eb\u30d7\u30e9\u30be\u30e9\u30e0",
+    "generic_name": "アルプラゾラム",
     "product_names": [
-      "\u30bd\u30e9\u30ca\u30c3\u30af\u30b9",
-      "\u30b3\u30f3\u30b9\u30bf\u30f3"
+      "ソラナックス",
+      "コンスタン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 6.25
     }
   },
   "84": {
     "id": 84,
-    "generic_name": "\u30d5\u30eb\u30e9\u30bc\u30d1\u30e0",
+    "generic_name": "フルラゼパム",
     "product_names": [
-      "\u30c0\u30eb\u30e1\u30fc\u30c8"
+      "ダルメート"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.33
     }
   },
   "85": {
     "id": 85,
-    "generic_name": "\u30a8\u30c1\u30be\u30e9\u30e0",
+    "generic_name": "エチゾラム",
     "product_names": [
-      "\u30c7\u30d1\u30b9"
+      "デパス"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 3.33
     }
   },
   "86": {
     "id": 86,
-    "generic_name": "\u30af\u30a2\u30bc\u30d1\u30e0",
+    "generic_name": "クアゼパム",
     "product_names": [
-      "\u30c9\u30e9\u30fc\u30eb"
+      "ドラール"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.33
     }
   },
   "87": {
     "id": 87,
-    "generic_name": "\u30aa\u30ad\u30b5\u30bc\u30d1\u30e0",
+    "generic_name": "オキサゼパム",
     "product_names": [
-      "\u30cf\u30a4\u30ed\u30f3\u30b0"
+      "ハイロング"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.33
     }
   },
   "88": {
     "id": 88,
-    "generic_name": "\u30c8\u30ea\u30a2\u30be\u30e9\u30e0",
+    "generic_name": "トリアゾラム",
     "product_names": [
-      "\u30cf\u30eb\u30b7\u30aa\u30f3",
-      "\u30a2\u30b5\u30b7\u30aa\u30f3"
+      "ハルシオン",
+      "アサシオン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 20.0
+      "imp": 0,
+      "dzp": 20
     }
   },
   "89": {
     "id": 89,
-    "generic_name": "\u30cb\u30c8\u30e9\u30bc\u30d1\u30e0",
+    "generic_name": "ニトラゼパム",
     "product_names": [
-      "\u30d9\u30f3\u30b6\u30ea\u30f3"
+      "ベンザリン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 1.0
+      "imp": 0,
+      "dzp": 1
     }
   },
   "90": {
     "id": 90,
-    "generic_name": "\u30ed\u30d5\u30e9\u30bc\u30d7\u9178\u30a8\u30c1\u30eb",
+    "generic_name": "ロフラゼプ酸エチル",
     "product_names": [
-      "\u30e1\u30a4\u30e9\u30c3\u30af\u30b9"
+      "メイラックス"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 3.0
+      "imp": 0,
+      "dzp": 3
     }
   },
   "91": {
     "id": 91,
-    "generic_name": "\u30e1\u30ad\u30b5\u30be\u30e9\u30e0",
+    "generic_name": "メキサゾラム",
     "product_names": [
-      "\u30e1\u30ec\u30c3\u30af\u30b9"
+      "メレックス"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 3.0
+      "imp": 0,
+      "dzp": 3
     }
   },
   "92": {
     "id": 92,
-    "generic_name": "\u30af\u30ed\u30e9\u30bc\u30d7\u9178",
+    "generic_name": "クロラゼプ酸",
     "product_names": [
-      "\u30e1\u30f3\u30c9\u30f3"
+      "メンドン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.67
     }
   },
   "93": {
     "id": 93,
-    "generic_name": "\u30a8\u30b9\u30bf\u30be\u30e9\u30e0",
+    "generic_name": "エスタゾラム",
     "product_names": [
-      "\u30e6\u30fc\u30ed\u30b8\u30f3"
+      "ユーロジン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 2.5
     }
   },
   "94": {
     "id": 94,
-    "generic_name": "\u30af\u30ed\u30c1\u30a2\u30bc\u30d1\u30e0",
+    "generic_name": "クロチアゼパム",
     "product_names": [
-      "\u30ea\u30fc\u30bc"
+      "リーゼ"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.5
     }
   },
   "95": {
     "id": 95,
-    "generic_name": "\u30ea\u30eb\u30de\u30b6\u30db\u30f3",
+    "generic_name": "リルマザホン",
     "product_names": [
-      "\u30ea\u30b9\u30df\u30fc"
+      "リスミー"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 2.5
     }
   },
   "96": {
     "id": 96,
-    "generic_name": "\u30af\u30ed\u30ca\u30bc\u30d1\u30e0",
+    "generic_name": "クロナゼパム",
     "product_names": [
-      "\u30ea\u30dc\u30c8\u30ea\u30fc\u30eb",
-      "\u30e9\u30f3\u30c9\u30bb\u30f3"
+      "リボトリール",
+      "ランドセン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 20.0
+      "imp": 0,
+      "dzp": 20
     }
   },
   "97": {
     "id": 97,
-    "generic_name": "\u30d6\u30ed\u30de\u30bc\u30d1\u30e0",
+    "generic_name": "ブロマゼパム",
     "product_names": [
-      "\u30ec\u30ad\u30bd\u30bf\u30f3",
-      "\u30bb\u30cb\u30e9\u30f3"
+      "レキソタン",
+      "セニラン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 2.0
+      "imp": 0,
+      "dzp": 2
     }
   },
   "98": {
     "id": 98,
-    "generic_name": "\u30d5\u30eb\u30c8\u30d7\u30e9\u30bc\u30d1\u30e0",
+    "generic_name": "フルトプラゼパム",
     "product_names": [
-      "\u30ec\u30b9\u30bf\u30b9"
+      "レスタス"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 3.0
+      "imp": 0,
+      "dzp": 3
     }
   },
   "99": {
     "id": 99,
-    "generic_name": "\u30e1\u30c0\u30bc\u30d1\u30e0",
+    "generic_name": "メダゼパム",
     "product_names": [
-      "\u30ec\u30b9\u30df\u30c3\u30c8"
+      "レスミット"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.5
     }
   },
   "100": {
     "id": 100,
-    "generic_name": "\u30d6\u30ed\u30c1\u30be\u30e9\u30e0",
+    "generic_name": "ブロチゾラム",
     "product_names": [
-      "\u30ec\u30f3\u30c9\u30eb\u30df\u30f3",
-      "\u30b0\u30c3\u30c9\u30df\u30f3"
+      "レンドルミン",
+      "グッドミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 20.0
+      "imp": 0,
+      "dzp": 20
     }
   },
   "101": {
     "id": 101,
-    "generic_name": "\u30ed\u30eb\u30e1\u30bf\u30bc\u30d1\u30e0",
+    "generic_name": "ロルメタゼパム",
     "product_names": [
-      "\u30ed\u30e9\u30e1\u30c3\u30c8",
-      "\u30a8\u30d0\u30df\u30fc\u30eb"
+      "ロラメット",
+      "エバミール"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 5.0
+      "imp": 0,
+      "dzp": 5
     }
   },
   "102": {
     "id": 102,
-    "generic_name": "\u30ed\u30e9\u30bc\u30d1\u30e0",
+    "generic_name": "ロラゼパム",
     "product_names": [
-      "\u30ef\u30a4\u30d1\u30c3\u30af\u30b9"
+      "ワイパックス"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 4.17
     }
   },
   "103": {
     "id": 103,
-    "generic_name": "\u30be\u30d4\u30af\u30ed\u30f3",
+    "generic_name": "ゾピクロン",
     "product_names": [
-      "\u30a2\u30e2\u30d0\u30f3"
+      "アモバン"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u975e\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（非ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.67
     }
   },
   "104": {
     "id": 104,
-    "generic_name": "\u30be\u30eb\u30d4\u30c7\u30e0",
+    "generic_name": "ゾルピデム",
     "product_names": [
-      "\u30de\u30a4\u30b9\u30ea\u30fc"
+      "マイスリー"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u975e\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（非ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.5
     }
   },
   "105": {
     "id": 105,
-    "generic_name": "\u30a8\u30b9\u30be\u30d4\u30af\u30ed\u30f3",
+    "generic_name": "エスゾピクロン",
     "product_names": [
-      "\u30eb\u30cd\u30b9\u30bf"
+      "ルネスタ"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u975e\u30d9\u30f3\u30be\u30b8\u30a2\u30bc\u30d4\u30f3\uff09",
+    "class": "抗不安・睡眠薬（非ベンゾジアゼピン）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 2.0
+      "imp": 0,
+      "dzp": 2
     }
   },
   "106": {
     "id": 106,
-    "generic_name": "\u30d7\u30ed\u30ad\u30b7\u30d5\u30a3\u30ea\u30f3\u30fb\u30a8\u30d5\u30a7\u30c9\u30ea\u30f3\u914d\u5408\u5264",
+    "generic_name": "プロキシフィリン・エフェドリン配合剤",
     "product_names": [
-      "\u30a2\u30b9\u30c8\u30e2\u30ea\u30b8\u30f3\u914d\u5408\u8178\u6eb6\u9320\uff0f\u80c3\u6eb6\u9320"
+      "アストモリジン配合腸溶錠／胃溶錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "unit": "錠",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 6.67
     }
   },
   "107": {
     "id": 107,
-    "generic_name": "\u30bf\u30f3\u30c9\u30b9\u30d4\u30ed\u30f3",
+    "generic_name": "タンドスピロン",
     "product_names": [
-      "\u30bb\u30c7\u30a3\u30fc\u30eb"
+      "セディール"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.2
     }
   },
   "108": {
     "id": 108,
-    "generic_name": "\u30ec\u30f3\u30dc\u30ec\u30ad\u30b5\u30f3\u30c8",
+    "generic_name": "レンボレキサント",
     "product_names": [
-      "\u30c7\u30a8\u30d3\u30b4"
+      "デエビゴ"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": "???"
     }
   },
   "109": {
     "id": 109,
-    "generic_name": "\u30b8\u30d5\u30a7\u30f3\u30d2\u30c9\u30e9\u30df\u30f3\u30fb\u30b8\u30d7\u30ed\u30d5\u30a3\u30ea\u30f3\u914d\u5408\u5264",
+    "generic_name": "ジフェンヒドラミン・ジプロフィリン配合剤",
     "product_names": [
-      "\u30c8\u30e9\u30d9\u30eb\u30df\u30f3\u914d\u5408\u9320"
+      "トラベルミン配合錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "unit": "錠",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "110": {
     "id": 110,
-    "generic_name": "\u30e1\u30da\u30f3\u30be\u30e9\u30fc\u30c8\u30fb\u30d5\u30a7\u30ce\u30d0\u30eb\u30d3\u30bf\u30fc\u30eb\u914d\u5408\u5264",
+    "generic_name": "メペンゾラート・フェノバルビタール配合剤",
     "product_names": [
-      "\u30c8\u30e9\u30f3\u30b3\u30ed\u30f3\uff30\u914d\u5408\u9320"
+      "トランコロンＰ配合錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "unit": "錠",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 5.0
+      "imp": 0,
+      "dzp": 5
     }
   },
   "111": {
     "id": 111,
-    "generic_name": "\u30b9\u30dc\u30ec\u30ad\u30b5\u30f3\u30c8",
+    "generic_name": "スボレキサント",
     "product_names": [
-      "\u30d9\u30eb\u30bd\u30e0\u30e9"
+      "ベルソムラ"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": "???"
     }
   },
   "112": {
     "id": 112,
-    "generic_name": "\u30e1\u30e9\u30c8\u30cb\u30f3",
+    "generic_name": "メラトニン",
     "product_names": [
-      "\u30e1\u30e9\u30c8\u30d9\u30eb"
+      "メラトベル"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": "???"
     }
   },
   "113": {
     "id": 113,
-    "generic_name": "\u30e9\u30e1\u30eb\u30c6\u30aa\u30f3",
+    "generic_name": "ラメルテオン",
     "product_names": [
-      "\u30ed\u30bc\u30ec\u30e0"
+      "ロゼレム"
     ],
     "unit": "mg",
-    "class": "\u6297\u4e0d\u5b89\u30fb\u7761\u7720\u85ac\uff08\u305d\u306e\u4ed6\uff09",
+    "class": "抗不安・睡眠薬（その他）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": "???"
     }
   },
   "114": {
     "id": 114,
-    "generic_name": "\u30af\u30ed\u30df\u30d7\u30e9\u30df\u30f3",
+    "generic_name": "クロミプラミン",
     "product_names": [
-      "\u30a2\u30ca\u30d5\u30e9\u30cb\u30fc\u30eb"
+      "アナフラニール"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
       "imp": 1.3,
-      "dzp": 0.0
+      "dzp": 0
     }
   },
   "115": {
     "id": 115,
-    "generic_name": "\u30a2\u30e2\u30ad\u30b5\u30d4\u30f3",
+    "generic_name": "アモキサピン",
     "product_names": [
-      "\u30a2\u30e2\u30ad\u30b5\u30f3"
+      "アモキサン"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "116": {
     "id": 116,
-    "generic_name": "\u30ed\u30d5\u30a7\u30d7\u30e9\u30df\u30f3",
+    "generic_name": "ロフェプラミン",
     "product_names": [
-      "\u30a2\u30f3\u30d7\u30ea\u30c3\u30c8"
+      "アンプリット"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "117": {
     "id": 117,
-    "generic_name": "\u30b5\u30d5\u30e9\u30b8\u30f3",
+    "generic_name": "サフラジン",
     "product_names": [
-      "\u30b5\u30d5\u30e9"
+      "サフラ"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 5.0,
-      "dzp": 0.0
+      "imp": 5,
+      "dzp": 0
     }
   },
   "118": {
     "id": 118,
-    "generic_name": "\u30c8\u30ea\u30df\u30d7\u30e9\u30df\u30f3",
+    "generic_name": "トリミプラミン",
     "product_names": [
-      "\u30b9\u30eb\u30e2\u30f3\u30c1\u30fc\u30eb"
+      "スルモンチール"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "119": {
     "id": 119,
-    "generic_name": "\u30bb\u30c1\u30d7\u30c1\u30ea\u30f3",
+    "generic_name": "セチプチリン",
     "product_names": [
-      "\u30c6\u30b7\u30d7\u30fc\u30eb"
+      "テシプール"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 25.0,
-      "dzp": 0.0
+      "imp": 25,
+      "dzp": 0
     }
   },
   "120": {
     "id": 120,
-    "generic_name": "\u30df\u30a2\u30f3\u30bb\u30ea\u30f3",
+    "generic_name": "ミアンセリン",
     "product_names": [
-      "\u30c6\u30c8\u30e9\u30df\u30c9"
+      "テトラミド"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
       "imp": 2.5,
-      "dzp": 0.0
+      "dzp": 0
     }
   },
   "121": {
     "id": 121,
-    "generic_name": "\u30a4\u30df\u30d7\u30e9\u30df\u30f3",
+    "generic_name": "イミプラミン",
     "product_names": [
-      "\u30c8\u30d5\u30e9\u30cb\u30fc\u30eb"
+      "トフラニール"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "122": {
     "id": 122,
-    "generic_name": "\u30a2\u30df\u30c8\u30ea\u30d7\u30c1\u30ea\u30f3",
+    "generic_name": "アミトリプチリン",
     "product_names": [
-      "\u30c8\u30ea\u30d7\u30bf\u30ce\u30fc\u30eb"
+      "トリプタノール"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "123": {
     "id": 123,
-    "generic_name": "\u30ce\u30eb\u30c8\u30ea\u30d7\u30c1\u30ea\u30f3",
+    "generic_name": "ノルトリプチリン",
     "product_names": [
-      "\u30ce\u30ea\u30c8\u30ec\u30f3"
+      "ノリトレン"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 2.0,
-      "dzp": 0.0
+      "imp": 2,
+      "dzp": 0
     }
   },
   "124": {
     "id": 124,
-    "generic_name": "\u30c7\u30b7\u30d7\u30e9\u30df\u30f3",
+    "generic_name": "デシプラミン",
     "product_names": [
-      "\u30d1\u30fc\u30c8\u30d5\u30e9\u30f3"
+      "パートフラン"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "125": {
     "id": 125,
-    "generic_name": "\u30c9\u30b9\u30ec\u30d4\u30f3",
+    "generic_name": "ドスレピン",
     "product_names": [
-      "\u30d7\u30ed\u30c1\u30a2\u30c7\u30f3"
+      "プロチアデン"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "126": {
     "id": 126,
-    "generic_name": "\u30de\u30d7\u30ed\u30c1\u30ea\u30f3",
+    "generic_name": "マプロチリン",
     "product_names": [
-      "\u30eb\u30b8\u30aa\u30df\u30fc\u30eb"
+      "ルジオミール"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "127": {
     "id": 127,
-    "generic_name": "\u30c8\u30e9\u30be\u30c9\u30f3",
+    "generic_name": "トラゾドン",
     "product_names": [
-      "\u30ec\u30b9\u30ea\u30f3",
-      "\u30c7\u30b8\u30ec\u30eb"
+      "レスリン",
+      "デジレル"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
       "imp": 0.5,
-      "dzp": 0.0
+      "dzp": 0
     }
   },
   "128": {
     "id": 128,
-    "generic_name": "\u30bb\u30eb\u30c8\u30e9\u30ea\u30f3",
+    "generic_name": "セルトラリン",
     "product_names": [
-      "\u30b8\u30a7\u30a4\u30be\u30ed\u30d5\u30c8"
+      "ジェイゾロフト"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac\uff08SSRI\uff09",
+    "class": "抗うつ薬（SSRI）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
       "imp": 1.5,
-      "dzp": 0.0
+      "dzp": 0
     }
   },
   "129": {
     "id": 129,
-    "generic_name": "\u30d5\u30eb\u30dc\u30ad\u30b5\u30df\u30f3",
+    "generic_name": "フルボキサミン",
     "product_names": [
-      "\u30c7\u30d7\u30ed\u30e1\u30fc\u30eb",
-      "\u30eb\u30dc\u30c3\u30af\u30b9"
+      "デプロメール",
+      "ルボックス"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac\uff08SSRI\uff09",
+    "class": "抗うつ薬（SSRI）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "130": {
     "id": 130,
-    "generic_name": "\u30d1\u30ed\u30ad\u30bb\u30c1\u30f3",
+    "generic_name": "パロキセチン",
     "product_names": [
-      "\u30d1\u30ad\u30b7\u30eb"
+      "パキシル"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac\uff08SSRI\uff09",
+    "class": "抗うつ薬（SSRI）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
       "imp": 3.8,
-      "dzp": 0.0
+      "dzp": 0
     }
   },
   "131": {
     "id": 131,
-    "generic_name": "\u30d1\u30ed\u30ad\u30bb\u30c1\u30f3\u5f90\u653e\u5264",
+    "generic_name": "パロキセチン徐放剤",
     "product_names": [
-      "\u30d1\u30ad\u30b7\u30ebCR"
+      "パキシルCR"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac\uff08SSRI\uff09",
+    "class": "抗うつ薬（SSRI）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 3.0,
-      "dzp": 0.0
+      "imp": 3,
+      "dzp": 0
     }
   },
   "132": {
     "id": 132,
-    "generic_name": "\u30a8\u30b9\u30b7\u30bf\u30ed\u30d7\u30e9\u30e0",
+    "generic_name": "エスシタロプラム",
     "product_names": [
-      "\u30ec\u30af\u30b5\u30d7\u30ed"
+      "レクサプロ"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac\uff08SSRI\uff09",
+    "class": "抗うつ薬（SSRI）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
       "imp": 7.5,
-      "dzp": 0.0
+      "dzp": 0
     }
   },
   "133": {
     "id": 133,
-    "generic_name": "\u30d9\u30f3\u30e9\u30d5\u30a1\u30ad\u30b7\u30f3",
+    "generic_name": "ベンラファキシン",
     "product_names": [
-      "\u30a4\u30d5\u30a7\u30af\u30b5\u30fc"
+      "イフェクサー"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac\uff08SNRI\uff09",
+    "class": "抗うつ薬（SNRI）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 1.0,
-      "dzp": 0.0
+      "imp": 1,
+      "dzp": 0
     }
   },
   "134": {
     "id": 134,
-    "generic_name": "\u30c7\u30e5\u30ed\u30ad\u30bb\u30c1\u30f3",
+    "generic_name": "デュロキセチン",
     "product_names": [
-      "\u30b5\u30a4\u30f3\u30d0\u30eb\u30bf"
+      "サインバルタ"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac\uff08SNRI\uff09",
+    "class": "抗うつ薬（SNRI）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 5.0,
-      "dzp": 0.0
+      "imp": 5,
+      "dzp": 0
     }
   },
   "135": {
     "id": 135,
-    "generic_name": "\u30df\u30eb\u30ca\u30b7\u30d7\u30e9\u30f3",
+    "generic_name": "ミルナシプラン",
     "product_names": [
-      "\u30c8\u30ec\u30c9\u30df\u30f3"
+      "トレドミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac\uff08SNRI\uff09",
+    "class": "抗うつ薬（SNRI）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
       "imp": 1.5,
-      "dzp": 0.0
+      "dzp": 0
     }
   },
   "136": {
     "id": 136,
-    "generic_name": "\u30df\u30eb\u30bf\u30b6\u30d4\u30f3",
+    "generic_name": "ミルタザピン",
     "product_names": [
-      "\u30ea\u30d5\u30ec\u30c3\u30af\u30b9",
-      "\u30ec\u30e1\u30ed\u30f3"
+      "リフレックス",
+      "レメロン"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac\uff08NaSSA\uff09",
+    "class": "抗うつ薬（NaSSA）",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 5.0,
-      "dzp": 0.0
+      "imp": 5,
+      "dzp": 0
     }
   },
   "137": {
     "id": 137,
-    "generic_name": "\u30dc\u30eb\u30c1\u30aa\u30ad\u30bb\u30c1\u30f3",
+    "generic_name": "ボルチオキセチン",
     "product_names": [
-      "\u30c8\u30ea\u30f3\u30c6\u30ea\u30c3\u30af\u30b9"
+      "トリンテリックス"
     ],
     "unit": "mg",
-    "class": "\u6297\u3046\u3064\u85ac",
+    "class": "抗うつ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
       "imp": "???",
-      "dzp": 0.0
+      "dzp": 0
     }
   },
   "138": {
     "id": 138,
-    "generic_name": "\u70ad\u9178\u30ea\u30c1\u30a6\u30e0",
+    "generic_name": "炭酸リチウム",
     "product_names": [
-      "\u30ea\u30fc\u30de\u30b9"
+      "リーマス"
     ],
     "unit": "mg",
-    "class": "\u6c17\u5206\u5b89\u5b9a\u85ac",
+    "class": "気分安定薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "139": {
     "id": 139,
-    "generic_name": "\u30ab\u30eb\u30d0\u30de\u30bc\u30d4\u30f3",
+    "generic_name": "カルバマゼピン",
     "product_names": [
-      "\u30c6\u30b0\u30ec\u30c8\u30fc\u30eb"
+      "テグレトール"
     ],
     "unit": "mg",
-    "class": "\u6c17\u5206\u5b89\u5b9a\u85ac\u30fb\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "気分安定薬・抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "140": {
     "id": 140,
-    "generic_name": "\u30d0\u30eb\u30d7\u30ed\u9178",
+    "generic_name": "バルプロ酸",
     "product_names": [
-      "\u30c7\u30d1\u30b1\u30f3",
-      "\u30c7\u30d1\u30b1\u30f3R",
-      "\u30bb\u30ec\u30cb\u30ab",
-      "\u30bb\u30ec\u30cb\u30abR",
-      "\u30d0\u30ec\u30ea\u30f3"
+      "デパケン",
+      "デパケンR",
+      "セレニカ",
+      "セレニカR",
+      "バレリン"
     ],
     "unit": "mg",
-    "class": "\u6c17\u5206\u5b89\u5b9a\u85ac\u30fb\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "気分安定薬・抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "141": {
     "id": 141,
-    "generic_name": "\u30e9\u30e2\u30c8\u30ea\u30ae\u30f3",
+    "generic_name": "ラモトリギン",
     "product_names": [
-      "\u30e9\u30df\u30af\u30bf\u30fc\u30eb"
+      "ラミクタール"
     ],
     "unit": "mg",
-    "class": "\u6c17\u5206\u5b89\u5b9a\u85ac\u30fb\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "気分安定薬・抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "142": {
     "id": 142,
-    "generic_name": "\u30d5\u30a7\u30cb\u30c8\u30a4\u30f3",
+    "generic_name": "フェニトイン",
     "product_names": [
-      "\u30a2\u30ec\u30d3\u30a2\u30c1\u30f3"
+      "アレビアチン"
     ],
     "unit": "mg",
-    "class": "\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "143": {
     "id": 143,
-    "generic_name": "\u30ec\u30d9\u30c1\u30e9\u30bb\u30bf\u30e0",
+    "generic_name": "レベチラセタム",
     "product_names": [
-      "\u30a4\u30fc\u30b1\u30d7\u30e9"
+      "イーケプラ"
     ],
     "unit": "mg",
-    "class": "\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "144": {
     "id": 144,
-    "generic_name": "\u30be\u30cb\u30b5\u30df\u30c9",
+    "generic_name": "ゾニサミド",
     "product_names": [
-      "\u30a8\u30af\u30bb\u30b0\u30e9\u30f3",
-      "\u30c8\u30ec\u30ea\u30fc\u30d5"
+      "エクセグラン",
+      "トレリーフ"
     ],
     "unit": "mg",
-    "class": "\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "145": {
     "id": 145,
-    "generic_name": "\u30ac\u30d0\u30da\u30f3\u30c1\u30f3",
+    "generic_name": "ガバペンチン",
     "product_names": [
-      "\u30ac\u30d0\u30da\u30f3"
+      "ガバペン"
     ],
     "unit": "mg",
-    "class": "\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "146": {
     "id": 146,
-    "generic_name": "\u30c8\u30d4\u30e9\u30de\u30fc\u30c8",
+    "generic_name": "トピラマート",
     "product_names": [
-      "\u30c8\u30d4\u30ca"
+      "トピナ"
     ],
     "unit": "mg",
-    "class": "\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "147": {
     "id": 147,
-    "generic_name": "\u30e9\u30b3\u30b5\u30df\u30c9",
+    "generic_name": "ラコサミド",
     "product_names": [
-      "\u30d3\u30e0\u30d1\u30c3\u30c8"
+      "ビムパット"
     ],
     "unit": "mg",
-    "class": "\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "148": {
     "id": 148,
-    "generic_name": "\u30da\u30e9\u30f3\u30d1\u30cd\u30eb",
+    "generic_name": "ペランパネル",
     "product_names": [
-      "\u30d5\u30a3\u30b3\u30f3\u30d1"
+      "フィコンパ"
     ],
     "unit": "mg",
-    "class": "\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "149": {
     "id": 149,
-    "generic_name": "\u30d7\u30ea\u30df\u30c9\u30f3",
+    "generic_name": "プリミドン",
     "product_names": [],
     "unit": "mg",
-    "class": "\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "150": {
     "id": 150,
-    "generic_name": "\u30af\u30ed\u30d0\u30b6\u30e0",
+    "generic_name": "クロバザム",
     "product_names": [
-      "\u30de\u30a4\u30b9\u30bf\u30f3"
+      "マイスタン"
     ],
     "unit": "mg",
-    "class": "\u6297\u3066\u3093\u304b\u3093\u85ac",
+    "class": "抗てんかん薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
+      "imp": 0,
       "dzp": 0.5
     }
   },
   "151": {
     "id": 151,
-    "generic_name": "\u30c8\u30ea\u30d8\u30ad\u30b7\u30d5\u30a7\u30cb\u30b8\u30eb",
+    "generic_name": "トリヘキシフェニジル",
     "product_names": [
-      "\u30a2\u30fc\u30c6\u30f3"
+      "アーテン"
     ],
     "unit": "mg",
-    "class": "\u6297\u30b3\u30ea\u30f3\u85ac",
+    "class": "抗コリン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.5,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "152": {
     "id": 152,
-    "generic_name": "\u30d3\u30da\u30ea\u30c7\u30f3",
+    "generic_name": "ビペリデン",
     "product_names": [
-      "\u30a2\u30ad\u30cd\u30c8\u30f3"
+      "アキネトン"
     ],
     "unit": "mg",
-    "class": "\u6297\u30b3\u30ea\u30f3\u85ac",
+    "class": "抗コリン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 1.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "153": {
     "id": 153,
-    "generic_name": "\u30e1\u30c1\u30ad\u30bb\u30f3",
+    "generic_name": "メチキセン",
     "product_names": [
-      "\u30b3\u30ea\u30f3\u30db\u30fc\u30eb"
+      "コリンホール"
     ],
     "unit": "mg",
-    "class": "\u6297\u30b3\u30ea\u30f3\u85ac",
+    "class": "抗コリン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.2,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "154": {
     "id": 154,
-    "generic_name": "\u30d4\u30ed\u30d8\u30d7\u30c1\u30f3",
+    "generic_name": "ピロヘプチン",
     "product_names": [
-      "\u30c8\u30ea\u30e2\u30fc\u30eb"
+      "トリモール"
     ],
     "unit": "mg",
-    "class": "\u6297\u30b3\u30ea\u30f3\u85ac",
+    "class": "抗コリン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.5,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "155": {
     "id": 155,
-    "generic_name": "\u30d7\u30ed\u30d5\u30a7\u30ca\u30df\u30f3",
+    "generic_name": "プロフェナミン",
     "product_names": [
-      "\u30d1\u30fc\u30ad\u30f3"
+      "パーキン"
     ],
     "unit": "mg",
-    "class": "\u6297\u30b3\u30ea\u30f3\u85ac",
+    "class": "抗コリン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.02,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "156": {
     "id": 156,
-    "generic_name": "\u30d7\u30ed\u30e1\u30bf\u30b8\u30f3",
+    "generic_name": "プロメタジン",
     "product_names": [
-      "\u30d4\u30ec\u30c1\u30a2",
-      "\u30d2\u30d9\u30eb\u30ca"
+      "ピレチア",
+      "ヒベルナ"
     ],
     "unit": "mg",
-    "class": "\u6297\u30b3\u30ea\u30f3\u85ac",
+    "class": "抗コリン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.04,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "157": {
     "id": 157,
-    "generic_name": "\u30d9\u30f3\u30ba\u30c8\u30ed\u30d4\u30f3",
+    "generic_name": "ベンズトロピン",
     "product_names": [],
     "unit": "mg",
-    "class": "\u6297\u30b3\u30ea\u30f3\u85ac",
+    "class": "抗コリン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 2.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "158": {
     "id": 158,
-    "generic_name": "\u30de\u30b6\u30c1\u30b3\u30fc\u30eb",
+    "generic_name": "マザチコール",
     "product_names": [
-      "\u30da\u30f3\u30c8\u30ca"
+      "ペントナ"
     ],
     "unit": "mg",
-    "class": "\u6297\u30b3\u30ea\u30f3\u85ac",
+    "class": "抗コリン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.25,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "159": {
     "id": 159,
-    "generic_name": "\u30d2\u30c9\u30ed\u30ad\u30b7\u30b8\u30f3",
+    "generic_name": "ヒドロキシジン",
     "product_names": [
-      "\u30a2\u30bf\u30e9\u30c3\u30af\u30b9P"
+      "アタラックスP"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d2\u30b9\u30bf\u30df\u30f3\u85ac",
+    "class": "抗ヒスタミン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "160": {
     "id": 160,
-    "generic_name": "\u30b8\u30d5\u30a7\u30f3\u30d2\u30c9\u30e9\u30df\u30f3",
+    "generic_name": "ジフェンヒドラミン",
     "product_names": [
-      "\u30ec\u30b9\u30bf\u30df\u30f3"
+      "レスタミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d2\u30b9\u30bf\u30df\u30f3\u85ac",
+    "class": "抗ヒスタミン薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "161": {
     "id": 161,
-    "generic_name": "\u30bb\u30ec\u30ae\u30ea\u30f3",
+    "generic_name": "セレギリン",
     "product_names": [
-      "\u30a8\u30d5\u30d4\u30fc"
+      "エフピー"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "162": {
     "id": 162,
-    "generic_name": "\u30ab\u30d9\u30eb\u30b4\u30ea\u30f3",
+    "generic_name": "カベルゴリン",
     "product_names": [
-      "\u30ab\u30d0\u30b5\u30fc\u30eb"
+      "カバサール"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "163": {
     "id": 163,
-    "generic_name": "\u30a8\u30f3\u30bf\u30ab\u30dd\u30f3",
+    "generic_name": "エンタカポン",
     "product_names": [
-      "\u30b3\u30e0\u30bf\u30f3"
+      "コムタン"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "164": {
     "id": 164,
-    "generic_name": "\u30a2\u30de\u30f3\u30bf\u30b8\u30f3",
+    "generic_name": "アマンタジン",
     "product_names": [
-      "\u30b7\u30f3\u30e1\u30c8\u30ec\u30eb"
+      "シンメトレル"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.02,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "165": {
     "id": 165,
-    "generic_name": "\u30ec\u30dc\u30c9\u30d1\u30fb\u30ab\u30eb\u30d3\u30c9\u30d1\u30fb\u30a8\u30f3\u30bf\u30ab\u30dd\u30f3\u914d\u5408\u5264100",
+    "generic_name": "レボドパ・カルビドパ・エンタカポン配合剤100",
     "product_names": [
-      "\u30b9\u30bf\u30ec\u30dc\u914d\u5408\u9320L100"
+      "スタレボ配合錠L100"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u30d1\u85ac",
+    "unit": "錠",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "166": {
     "id": 166,
-    "generic_name": "\u30ec\u30dc\u30c9\u30d1\u30fb\u30ab\u30eb\u30d3\u30c9\u30d1\u30fb\u30a8\u30f3\u30bf\u30ab\u30dd\u30f3\u914d\u5408\u526450",
+    "generic_name": "レボドパ・カルビドパ・エンタカポン配合剤50",
     "product_names": [
-      "\u30b9\u30bf\u30ec\u30dc\u914d\u5408\u9320L50"
+      "スタレボ配合錠L50"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u30d1\u85ac",
+    "unit": "錠",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "167": {
     "id": 167,
-    "generic_name": "\u30ec\u30dc\u30c9\u30d1\u30fb\u30ab\u30eb\u30d3\u30c9\u30d1\u914d\u5408\u5264",
+    "generic_name": "レボドパ・カルビドパ配合剤",
     "product_names": [
-      "\u30c7\u30e5\u30aa\u30c9\u30fc\u30d1\u8178\u7528\u5264"
+      "デュオドーパ腸用剤"
     ],
-    "unit": "\u30ab\u30bb\u30c3\u30c8",
-    "class": "\u6297\u30d1\u85ac",
+    "unit": "カセット",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "168": {
     "id": 168,
-    "generic_name": "\u30ec\u30dc\u30c9\u30d1",
+    "generic_name": "レボドパ",
     "product_names": [
-      "\u30c9\u30d1\u30b9\u30c8\u30f3",
-      "\u30c9\u30d1\u30be\u30fc\u30eb",
-      "\u30c9\u30d1\u30fc\u30eb"
+      "ドパストン",
+      "ドパゾール",
+      "ドパール"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "169": {
     "id": 169,
-    "generic_name": "\u30c9\u30ed\u30ad\u30b7\u30c9\u30d1",
+    "generic_name": "ドロキシドパ",
     "product_names": [
-      "\u30c9\u30d7\u30b9"
+      "ドプス"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "170": {
     "id": 170,
-    "generic_name": "\u30bf\u30ea\u30da\u30ad\u30bd\u30fc\u30eb",
+    "generic_name": "タリペキソール",
     "product_names": [
-      "\u30c9\u30df\u30f3"
+      "ドミン"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "171": {
     "id": 171,
-    "generic_name": "\u30ed\u30c1\u30b4\u30c1\u30f3",
+    "generic_name": "ロチゴチン",
     "product_names": [
-      "\u30cb\u30e5\u30fc\u30d7\u30ed\u30d1\u30c3\u30c1"
+      "ニュープロパッチ"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "172": {
     "id": 172,
-    "generic_name": "\u30a4\u30b9\u30c8\u30e9\u30c7\u30d5\u30a3\u30ea\u30f3",
+    "generic_name": "イストラデフィリン",
     "product_names": [
-      "\u30ce\u30a6\u30ea\u30a2\u30b9\u30c8"
+      "ノウリアスト"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "173": {
     "id": 173,
-    "generic_name": "\u30d6\u30ed\u30e2\u30af\u30ea\u30d7\u30c1\u30f3",
+    "generic_name": "ブロモクリプチン",
     "product_names": [
-      "\u30d1\u30fc\u30ed\u30c7\u30eb"
+      "パーロデル"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "174": {
     "id": 174,
-    "generic_name": "\u30d7\u30e9\u30df\u30da\u30ad\u30bd\u30fc\u30eb",
+    "generic_name": "プラミペキソール",
     "product_names": [
-      "\u30d3\u30b7\u30d5\u30ed\u30fc\u30eb",
-      "\u30df\u30e9\u30da\u30c3\u30af\u30b9"
+      "ビシフロール",
+      "ミラペックス"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "175": {
     "id": 175,
-    "generic_name": "\u30da\u30eb\u30b4\u30ea\u30c9",
+    "generic_name": "ペルゴリド",
     "product_names": [
-      "\u30da\u30eb\u30de\u30c3\u30af\u30b9"
+      "ペルマックス"
     ],
-    "unit": "\u03bcg",
-    "class": "\u6297\u30d1\u85ac",
+    "unit": "μg",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "176": {
     "id": 176,
-    "generic_name": "\u30ec\u30dc\u30c9\u30d1\u30fb\u30d9\u30f3\u30bb\u30e9\u30b8\u30c9\u914d\u5408\u5264",
+    "generic_name": "レボドパ・ベンセラジド配合剤",
     "product_names": [
-      "\u30de\u30c9\u30d1\u30fc\u914d\u5408\u9320"
+      "マドパー配合錠"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u30d1\u85ac",
+    "unit": "錠",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "177": {
     "id": 177,
-    "generic_name": "\u30ec\u30dc\u30c9\u30d1\u30fb\u30ab\u30eb\u30d3\u30c9\u30d1\u914d\u5408\u5264100",
+    "generic_name": "レボドパ・カルビドパ配合剤100",
     "product_names": [
-      "\u30e1\u30cd\u30b7\u30c3\u30c8\u914d\u5408\u9320100",
-      "\u30ab\u30eb\u30b3\u30fc\u30d1\u914d\u5408\u9320100",
-      "\u30cd\u30aa\u30c9\u30d1\u30b9\u30c8\u30f3\u914d\u5408\u9320L100",
-      "\u30ab\u30eb\u30b3\u30fc\u30d1\u914d\u5408\u9320L100"
+      "メネシット配合錠100",
+      "カルコーパ配合錠100",
+      "ネオドパストン配合錠L100",
+      "カルコーパ配合錠L100"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u30d1\u85ac",
+    "unit": "錠",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "178": {
     "id": 178,
-    "generic_name": "\u30ec\u30dc\u30c9\u30d1\u30fb\u30ab\u30eb\u30d3\u30c9\u30d1\u914d\u5408\u5264250",
+    "generic_name": "レボドパ・カルビドパ配合剤250",
     "product_names": [
-      "\u30e1\u30cd\u30b7\u30c3\u30c8\u914d\u5408\u9320250",
-      "\u30ab\u30eb\u30b3\u30fc\u30d1\u914d\u5408\u9320250",
-      "\u30cd\u30aa\u30c9\u30d1\u30b9\u30c8\u30f3\u914d\u5408\u9320L250",
-      "\u30ab\u30eb\u30b3\u30fc\u30d1\u914d\u5408\u9320L250"
+      "メネシット配合錠250",
+      "カルコーパ配合錠250",
+      "ネオドパストン配合錠L250",
+      "カルコーパ配合錠L250"
     ],
-    "unit": "\u9320",
-    "class": "\u6297\u30d1\u85ac",
+    "unit": "錠",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "179": {
     "id": 179,
-    "generic_name": "\u30ed\u30d4\u30cb\u30ed\u30fc\u30eb",
+    "generic_name": "ロピニロール",
     "product_names": [
-      "\u30ec\u30ad\u30c3\u30d7"
+      "レキップ"
     ],
     "unit": "mg",
-    "class": "\u6297\u30d1\u85ac",
+    "class": "抗パ薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "180": {
     "id": 180,
-    "generic_name": "\u30ac\u30d0\u30da\u30f3\u30c1\u30f3\u30a8\u30ca\u30ab\u30eb\u30d3\u30eb",
+    "generic_name": "ガバペンチンエナカルビル",
     "product_names": [
-      "\u30ec\u30b0\u30ca\u30a4\u30c8"
+      "レグナイト"
     ],
     "unit": "mg",
-    "class": "RLS\u6cbb\u7642\u85ac",
+    "class": "RLS治療薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "181": {
     "id": 181,
-    "generic_name": "\u30b0\u30a2\u30f3\u30d5\u30a1\u30b7\u30f3",
+    "generic_name": "グアンファシン",
     "product_names": [
-      "\u30a4\u30f3\u30c1\u30e5\u30cb\u30d6"
+      "インチュニブ"
     ],
     "unit": "mg",
-    "class": "ADHD\u6cbb\u7642\u85ac",
+    "class": "ADHD治療薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "182": {
     "id": 182,
-    "generic_name": "\u30e1\u30c1\u30eb\u30d5\u30a7\u30cb\u30c7\u30fc\u30c8\u5f90\u653e\u5264",
+    "generic_name": "メチルフェニデート徐放剤",
     "product_names": [
-      "\u30b3\u30f3\u30b5\u30fc\u30bf"
+      "コンサータ"
     ],
     "unit": "mg",
-    "class": "ADHD\u6cbb\u7642\u85ac",
+    "class": "ADHD治療薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "183": {
     "id": 183,
-    "generic_name": "\u30a2\u30c8\u30e2\u30ad\u30bb\u30c1\u30f3",
+    "generic_name": "アトモキセチン",
     "product_names": [
-      "\u30b9\u30c8\u30e9\u30c6\u30e9"
+      "ストラテラ"
     ],
     "unit": "mg",
-    "class": "ADHD\u6cbb\u7642\u85ac",
+    "class": "ADHD治療薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "184": {
     "id": 184,
-    "generic_name": "\u30ea\u30b9\u30c7\u30ad\u30b5\u30f3\u30d5\u30a7\u30bf\u30df\u30f3",
+    "generic_name": "リスデキサンフェタミン",
     "product_names": [
-      "\u30d3\u30d0\u30f3\u30bb"
+      "ビバンセ"
     ],
     "unit": "mg",
-    "class": "ADHD\u6cbb\u7642\u85ac",
+    "class": "ADHD治療薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "185": {
     "id": 185,
-    "generic_name": "\u30da\u30e2\u30ea\u30f3",
+    "generic_name": "ペモリン",
     "product_names": [
-      "\u30d9\u30bf\u30ca\u30df\u30f3"
+      "ベタナミン"
     ],
     "unit": "mg",
-    "class": "\u4e2d\u67a2\u523a\u6fc0\u85ac",
+    "class": "中枢刺激薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "186": {
     "id": 186,
-    "generic_name": "\u30e2\u30c0\u30d5\u30a3\u30cb\u30eb",
+    "generic_name": "モダフィニル",
     "product_names": [
-      "\u30e2\u30c7\u30a3\u30aa\u30c0\u30fc\u30eb"
+      "モディオダール"
     ],
     "unit": "mg",
-    "class": "\u4e2d\u67a2\u523a\u6fc0\u85ac",
+    "class": "中枢刺激薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "187": {
     "id": 187,
-    "generic_name": "\u30e1\u30c1\u30eb\u30d5\u30a7\u30cb\u30c7\u30fc\u30c8",
+    "generic_name": "メチルフェニデート",
     "product_names": [
-      "\u30ea\u30bf\u30ea\u30f3"
+      "リタリン"
     ],
     "unit": "mg",
-    "class": "\u4e2d\u67a2\u523a\u6fc0\u85ac",
+    "class": "中枢刺激薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "188": {
     "id": 188,
-    "generic_name": "\u30c9\u30cd\u30da\u30b8\u30eb",
+    "generic_name": "ドネペジル",
     "product_names": [
-      "\u30a2\u30ea\u30bb\u30d7\u30c8"
+      "アリセプト"
     ],
     "unit": "mg",
-    "class": "\u6297\u8a8d\u77e5\u75c7\u85ac",
+    "class": "抗認知症薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "189": {
     "id": 189,
-    "generic_name": "\u30e1\u30de\u30f3\u30c1\u30f3",
+    "generic_name": "メマンチン",
     "product_names": [
-      "\u30e1\u30de\u30ea\u30fc"
+      "メマリー"
     ],
     "unit": "mg",
-    "class": "\u6297\u8a8d\u77e5\u75c7\u85ac",
+    "class": "抗認知症薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "190": {
     "id": 190,
-    "generic_name": "\u30ea\u30d0\u30b9\u30c1\u30b0\u30df\u30f3",
+    "generic_name": "リバスチグミン",
     "product_names": [
-      "\u30ea\u30d0\u30b9\u30bf\u30c3\u30c1",
-      "\u30a4\u30af\u30bb\u30ed\u30f3\u30d1\u30c3\u30c1"
+      "リバスタッチ",
+      "イクセロンパッチ"
     ],
     "unit": "mg",
-    "class": "\u6297\u8a8d\u77e5\u75c7\u85ac",
+    "class": "抗認知症薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "191": {
     "id": 191,
-    "generic_name": "\u30ac\u30e9\u30f3\u30bf\u30df\u30f3",
+    "generic_name": "ガランタミン",
     "product_names": [
-      "\u30ec\u30df\u30cb\u30fc\u30eb"
+      "レミニール"
     ],
     "unit": "mg",
-    "class": "\u6297\u8a8d\u77e5\u75c7\u85ac",
+    "class": "抗認知症薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "192": {
     "id": 192,
-    "generic_name": "\u30b7\u30a2\u30ca\u30df\u30c9",
+    "generic_name": "シアナミド",
     "product_names": [
-      "\u30b7\u30a2\u30ca\u30de\u30a4\u30c9"
+      "シアナマイド"
     ],
     "unit": "mg",
-    "class": "\u6297\u9152\u85ac",
+    "class": "抗酒薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "193": {
     "id": 193,
-    "generic_name": "\u30b8\u30b9\u30eb\u30d5\u30a3\u30e9\u30e0",
+    "generic_name": "ジスルフィラム",
     "product_names": [
-      "\u30ce\u30c3\u30af\u30d3\u30f3"
+      "ノックビン"
     ],
     "unit": "mg",
-    "class": "\u6297\u9152\u85ac",
+    "class": "抗酒薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "194": {
     "id": 194,
-    "generic_name": "\u30ca\u30eb\u30e1\u30d5\u30a7\u30f3",
+    "generic_name": "ナルメフェン",
     "product_names": [
-      "\u30bb\u30ea\u30f3\u30af\u30ed"
+      "セリンクロ"
     ],
     "unit": "mg",
-    "class": "\u98f2\u9152\u6b32\u6c42\u6291\u5236\u85ac",
+    "class": "飲酒欲求抑制薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "195": {
     "id": 195,
-    "generic_name": "\u30a2\u30ab\u30f3\u30d7\u30ed\u30b5\u30fc\u30c8",
+    "generic_name": "アカンプロサート",
     "product_names": [
-      "\u30ec\u30b0\u30c6\u30af\u30c8"
+      "レグテクト"
     ],
     "unit": "mg",
-    "class": "\u98f2\u9152\u6b32\u6c42\u6291\u5236\u85ac",
+    "class": "飲酒欲求抑制薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "196": {
     "id": 196,
-    "generic_name": "\u30e2\u30b5\u30d7\u30ea\u30c9",
+    "generic_name": "モサプリド",
     "product_names": [
-      "\u30ac\u30b9\u30e2\u30c1\u30f3"
+      "ガスモチン"
     ],
     "unit": "mg",
-    "class": "\u5185\u79d1\u85ac",
+    "class": "内科薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "197": {
     "id": 197,
-    "generic_name": "\u30e9\u30d9\u30d7\u30e9\u30be\u30fc\u30eb",
+    "generic_name": "ラベプラゾール",
     "product_names": [
-      "\u30d1\u30ea\u30a8\u30c3\u30c8"
+      "パリエット"
     ],
     "unit": "mg",
-    "class": "\u5185\u79d1\u85ac",
+    "class": "内科薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "198": {
     "id": 198,
-    "generic_name": "\u30bb\u30f3\u30ce\u30b7\u30c9",
+    "generic_name": "センノシド",
     "product_names": [
-      "\u30d7\u30eb\u30bc\u30cb\u30c9"
+      "プルゼニド"
     ],
     "unit": "mg",
-    "class": "\u5185\u79d1\u85ac",
+    "class": "内科薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "199": {
     "id": 199,
-    "generic_name": "\u9178\u5316\u30de\u30b0\u30cd\u30b7\u30a6\u30e0",
+    "generic_name": "酸化マグネシウム",
     "product_names": [
-      "\u30de\u30b0\u30df\u30c3\u30c8",
-      "\u30de\u30b0\u30e9\u30c3\u30af\u30b9",
-      "\u91cd\u30ab\u30de"
+      "マグミット",
+      "マグラックス",
+      "重カマ"
     ],
     "unit": "mg",
-    "class": "\u5185\u79d1\u85ac",
+    "class": "内科薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   },
   "200": {
     "id": 200,
-    "generic_name": "\u30df\u30c9\u30c9\u30ea\u30f3",
+    "generic_name": "ミドドリン",
     "product_names": [
-      "\u30e1\u30c8\u30ea\u30b8\u30f3"
+      "メトリジン"
     ],
     "unit": "mg",
-    "class": "\u5185\u79d1\u85ac",
+    "class": "内科薬",
     "equiv_potency": {
       "cp_fga": 0.0,
       "cp_sga": 0.0,
       "bpd": 0.0,
-      "imp": 0.0,
-      "dzp": 0.0
+      "imp": 0,
+      "dzp": 0
     }
   }
 }
