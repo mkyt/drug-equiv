@@ -6,9 +6,11 @@ import './App.scss';
 import DRUGS from './drugs.json';
 import NAME2ID from './name2id.json';
 
-import { useState } from 'react';
+import { useState, useRef } from 'react';
+import { findDOMNode } from 'react-dom';
 import { Typeahead } from 'react-bootstrap-typeahead';
 import { Button, ButtonGroup, Container, Label, Row, Col, Form, FormGroup, FormFeedback, Input, InputGroup, InputGroupText } from 'reactstrap';
+import { toKatakana } from '@koozaki/romaji-conv';
 
 var NAMES = [];
 for (const key of Object.keys(NAME2ID)) {
@@ -57,7 +59,10 @@ function drugname2unit(drug_name) {
   }
 }
 
-function hiraToKata(str) {
+function canonicalize(str) {
+  if (/^[a-zA-Z]+$/.test(str)) {
+    return toKatakana(str)
+  }
   return str.replace(/[\u3041-\u3096]/g, ch =>
     String.fromCharCode(ch.charCodeAt(0) + 0x60)
   );
@@ -218,6 +223,9 @@ const Feedback = (props) => {
 
 
 function DrugForm(props) {
+
+  const amtInputRef = useRef(null)
+
   const onDrugChange = (selected) => {
     if (selected.length === 0) {
       props.onChange({ name: '' });
@@ -226,6 +234,7 @@ function DrugForm(props) {
       if (drug !== props.selected) {
         props.onChange({ name: drug });
       }
+      findDOMNode(amtInputRef.current).focus()
     }
   }
 
@@ -245,7 +254,7 @@ function DrugForm(props) {
           selected={props.selected === '' ? [] : [props.selected]}
           isValid={props.selected !== '' && (props.selected in NAME2ID)}
           filterBy={(option, props) => {
-            const input = hiraToKata(props.text);
+            const input = canonicalize(props.text);
             return option.startsWith(input);
           }}
           className={(props.selected !== '' && (props.selected in NAME2ID)) ? "is-valid" : ""}
@@ -255,6 +264,7 @@ function DrugForm(props) {
       <Col sm={4}>
         <InputGroup>
           <Input
+            ref={amtInputRef}
             placeholder="Amount"
             type="number"
             onChange={onAmountChange}
